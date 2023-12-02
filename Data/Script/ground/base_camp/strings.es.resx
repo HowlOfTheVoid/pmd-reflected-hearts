@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Expo_Cutscene_Line_001" xml:space="preserve">
+    <value>Vaya tonto...[pause=0] Uno no puede simplemente pasar a través del {0}. </value>
+  </data>
+  <data name="Expo_Cutscene_Line_002" xml:space="preserve">
+    <value>¡Uhú![pause=0] No te precipites, jóven.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_003" xml:space="preserve">
+    <value>¡Esa mazmorra es conocida como la más peligrosa de toda la isla!</value>
+  </data>
+  <data name="Expo_Cutscene_Line_004" xml:space="preserve">
+    <value>Tú eres un explorador, ¿correcto?[pause=0] Dime, ¿cuál es el nombre de tu equipo?</value>
+  </data>
+  <data name="Expo_Cutscene_Line_005" xml:space="preserve">
+    <value>Entonces, ¿tu equipo es conocido como [color=#FFA5FF]{0}[color]?</value>
+  </data>
+  <data name="Expo_Cutscene_Line_006" xml:space="preserve">
+    <value>Uhú... Espero que sepas en lo que te estás metiendo...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_007" xml:space="preserve">
+    <value>Muchos equipos han intentado el {0}, sin embargo ni uno solo ha tenido éxito.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_008" xml:space="preserve">
+    <value>Deberías considerar métodos alternativos a correr de cabeza hacia el peligro.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_009" xml:space="preserve">
+    <value>Dirígete al este y encontrarás un campamento de amistosos Pokémon.[pause=0] Allí puedes abastecerte de suministros.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_010" xml:space="preserve">
+    <value>Si estás buscando explorar esta isla, te sugiero que empieces con el {0}. </value>
+  </data>
+  <data name="Expo_Cutscene_Line_011" xml:space="preserve">
+    <value>Y si buscas conocimiento sobre Mazmorras Misteriosas, ven y habla conmigo.</value>
+  </data>
+  <data name="Noctowl_Ask_Tutorial" xml:space="preserve">
+    <value>¿Te apetece una visita al {0}?</value>
+  </data>
+  <data name="Noctowl_Tutorial_End" xml:space="preserve">
+    <value>Mucha suerte con tus viajes.</value>
+  </data>
+  <data name="Noctowl_Tutorial_Line_002" xml:space="preserve">
+    <value>Aquí aprenderás los fundamentos de la exploración, y experimentar sin preocuparse del fracaso.</value>
+  </data>
+</root>

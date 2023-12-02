@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Camps_Line_001" xml:space="preserve">
+    <value>When trailblazers first came to climb the mountain,[pause=0] they set up rest camps along the way.[br]But after they passed the Ravine,[pause=0] the areas became too hostile to camp in.[br]Even now, there's no clear path to the summit.</value>
+  </data>
+  <data name="Carry_Line_001" xml:space="preserve">
+    <value>Gah![pause=0] Why'd Snorlax choose to take a nap in front of our storehouse of all places?</value>
+  </data>
+  <data name="Carry_Line_002" xml:space="preserve">
+    <value>I'd give him a wake-up call and a piece of my mind,[pause=0] but I'm still recovering from last time...</value>
+  </data>
+  <data name="Deliver_Line_001" xml:space="preserve">
+    <value>The supplies for Cliff Camp are running late.[pause=0] Swalot will have our heads for this!</value>
+  </data>
+  <data name="Parent_Child_Line_001" xml:space="preserve">
+    <value>Mama, I wanna go out and play!</value>
+  </data>
+  <data name="Parent_Child_Line_002" xml:space="preserve">
+    <value>Alright dearie,[pause=30] but you musn't leave the clearing.[br]You're still just a seedling, and there's big scary Mystery Dungeons out there.</value>
+  </data>
+  <data name="Sleeper_Line_001" xml:space="preserve">
+    <value>Snorlax is in a deep sleep, obnoxiously blocking the entrance...</value>
+  </data>
+</root>

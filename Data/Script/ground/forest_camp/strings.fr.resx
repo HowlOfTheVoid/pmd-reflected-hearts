@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Camps_Line_001" xml:space="preserve">
+    <value>Lorsque les pionniers ont commencé à escalader la montagne, [pause=0] ils ont installé des camps de repos le long du chemin.[br]Mais après avoir passé le Ravin,[pause=0] les zones sont devenues trop hostiles pour y camper.[br]Même maintenant, il n'y a pas de chemin clair vers le sommet.</value>
+  </data>
+  <data name="Carry_Line_001" xml:space="preserve">
+    <value>Gah ! [pause=0] Pourquoi Ronflex a choisi de faire une sieste devant notre entrepôt parmis tous les endroits ?</value>
+  </data>
+  <data name="Carry_Line_002" xml:space="preserve">
+    <value>Je lui donnerais bien un réveil et ma façon de penser, [pause=0] mais je me remets encore de la dernière fois...</value>
+  </data>
+  <data name="Deliver_Line_001" xml:space="preserve">
+    <value>Les fournitures pour le camp de Cliff ont du retard. [pause=0] Avaltout nous prendra la tête pour ça !</value>
+  </data>
+  <data name="Parent_Child_Line_001" xml:space="preserve">
+    <value>Maman, je veux aller jouer dehors !</value>
+  </data>
+  <data name="Parent_Child_Line_002" xml:space="preserve">
+    <value>Très bien mon chéri, [pause=30] mais tu ne dois pas quitter la clairière.[br]Tu n'es encore qu'une jeune pousse, et il y a de grands Donjons Mystères effrayants là dehors.</value>
+  </data>
+  <data name="Sleeper_Line_001" xml:space="preserve">
+    <value>Ronflex est dans un profond sommeil, bloquant odieusement l'entrée...</value>
+  </data>
+</root>
