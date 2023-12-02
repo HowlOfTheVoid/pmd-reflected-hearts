@@ -1,0 +1,50 @@
+<members>
+  <member name="RogueEssence:RogueEssence.Data.ZoneData">
+    <size>420,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.LevelGen.ZoneSegmentBase">
+    <size>380,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.LevelGen.IFloorGen">
+    <size>360,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.LevelGen.ZoneStep">
+    <size>380,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.LevelGen.CategorySpawn`1[[RogueEssence.Dungeon.InvItem, RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null]]">
+    <size>350,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Data.StartParams">
+    <size>464,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Dungeon.ZoneLoc">
+    <size>370,540</size>
+  </member>
+  <member name="System.Private.CoreLib:System.String">
+    <size>390,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Content.IBackgroundSprite">
+    <size>450,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Data.UniversalActiveEffect">
+    <size>390,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Dungeon.BGLayer">
+    <size>490,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Content.BattleFX">
+    <size>360,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Data.MonsterData">
+    <size>350,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.LocalText">
+    <size>350,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Data.BaseMonsterForm">
+    <size>350,540</size>
+  </member>
+  <member name="RogueEssence:RogueEssence.Data.StartChar">
+    <size>390,540</size>
+  </member>
+</members>

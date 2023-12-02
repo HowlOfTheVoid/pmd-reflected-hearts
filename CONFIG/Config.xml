@@ -1,0 +1,12 @@
+<Config>
+  <BGM>5</BGM>
+  <SE>5</SE>
+  <BattleFlow>Normal</BattleFlow>
+  <DefaultSkills>Attacks</DefaultSkills>
+  <Minimap>100</Minimap>
+  <TextSpeed>1</TextSpeed>
+  <Border>0</Border>
+  <Window>2</Window>
+  <Language>en</Language>
+  <InactiveInput>False</InactiveInput>
+</Config>
