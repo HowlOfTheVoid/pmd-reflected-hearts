@@ -1,0 +1,80 @@
+﻿{
+"Version": "0.7.14.0",
+"Object": {
+"$type": "RogueEssence.Data.TileData, RogueEssence",
+"Name": {
+"DefaultText": "Sigil Site",
+"LocalTexts": {
+"fr": "Zone de Signal",
+"es": "Área Señal",
+"zh-hans": "信号区域"
+}
+},
+"Desc": {
+"DefaultText": "A mysterious signal that calls Pokémon to the area.",
+"LocalTexts": {
+"fr": "Un signal mystérieux qui appelle les Pokémon dans la zone.",
+"es": "Una misteriosa señal que llama Pokémon al área.",
+"zh-hans": "一种可以召集宝可梦来到这里的神秘信号。"
+}
+},
+"Released": true,
+"Comment": "",
+"Anim": {
+"AnimIndex": "Tile_Signal",
+"FrameTime": 12,
+"StartFrame": -1,
+"EndFrame": -1,
+"AnimDir": -1,
+"Alpha": 255,
+"AnimFlip": 0
+},
+"Offset": {
+"X": 0,
+"Y": 0
+},
+"Layer": 0,
+"BlockItem": true,
+"StepType": 1,
+"MinimapIcon": {
+"X": 4,
+"Y": 1
+},
+"MinimapColor": "0, 255, 255, 255",
+"LandedOnTiles": [
+{
+"Key": {
+"str": [
+0
+]
+},
+"Value": {
+"$type": "PMDC.Dungeon.TriggerUnderfootEvent, PMDC"
+}
+}
+],
+"InteractWithTiles": [
+{
+"Key": {
+"str": [
+0
+]
+},
+"Value": {
+"$type": "PMDC.Dungeon.LockdownTileEvent, PMDC",
+"CheckClearStatus": "map_clear_check"
+}
+},
+{
+"Key": {
+"str": [
+0
+]
+},
+"Value": {
+"$type": "PMDC.Dungeon.BossSpawnEvent, PMDC"
+}
+}
+]
+}
+}
