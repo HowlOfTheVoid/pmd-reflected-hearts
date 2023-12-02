@@ -1,0 +1,491 @@
+[2023/08/04 15:00:17.888] =========================================
+
+[2023/08/04 15:00:17.89] SESSION STARTED: 2023/08/04 15:00:17
+
+[2023/08/04 15:00:17.891] Version: 0.7.14.0
+
+[2023/08/04 15:00:17.891] .NET 6.0.20
+
+[2023/08/04 15:00:17.891] =========================================
+
+[2023/08/04 15:00:20.889] FNA3D Driver: D3D11
+
+[2023/08/04 15:00:20.89] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/08/04 15:00:21.008] FNA3D Driver: D3D11
+
+[2023/08/04 15:00:21.008] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/08/04 15:00:21.176] [SE]:Initialized Lua 5.3
+
+[2023/08/04 15:00:21.176] [SE]:Importing .NET packages..
+
+[2023/08/04 15:00:21.185] [SE]:Exposing game engine components instances..
+
+[2023/08/04 15:00:21.19] [SE]:Exposing script interface..
+
+[2023/08/04 15:00:21.193] [SE]:Setting up lua globals..
+
+[2023/08/04 15:00:21.194] [SE]:Setting up lua paths..
+
+[2023/08/04 15:00:21.203] [SE]:Caching scripts..
+
+[2023/08/04 15:00:21.263] [SE]:Installing game interface functions..
+
+[2023/08/04 15:00:21.265] [SE]:Running main.lua script..
+
+[2023/08/04 15:00:21.282] [SE]:ChatterEngine:initialize()
+
+[2023/08/04 15:00:21.285] [SE]:Registered service ChatterEngine!
+
+[2023/08/04 15:00:21.29] [SE]:DebugTools:initialize()
+
+[2023/08/04 15:00:21.29] [SE]:Registered service DebugTools!
+
+[2023/08/04 15:00:21.294] [SE]:UpgradeTools:initialize()
+
+[2023/08/04 15:00:21.295] [SE]:Registered service UpgradeTools!
+
+[2023/08/04 15:00:21.295] [SE]: **- Lua engine ready! -**
+
+[2023/08/04 15:00:23.634] [SE]:ChatterEngine:OnInit()
+
+[2023/08/04 15:00:23.634] [SE]:
+<!> ExampleSvc: Init..
+
+[2023/08/04 15:00:23.638] LuaEngine.LoadSavedData()..
+
+[2023/08/04 15:00:23.64] [SE]:*****************UpgradeTools:__gc()
+
+[2023/08/04 15:00:23.641] [SE]:*****************DebugTools:__gc()
+
+[2023/08/04 15:00:23.642] [SE]:Initialized Lua 5.3
+
+[2023/08/04 15:00:23.642] [SE]:Importing .NET packages..
+
+[2023/08/04 15:00:23.642] [SE]:Exposing game engine components instances..
+
+[2023/08/04 15:00:23.65] [SE]:Exposing script interface..
+
+[2023/08/04 15:00:23.651] [SE]:Setting up lua globals..
+
+[2023/08/04 15:00:23.651] [SE]:Setting up lua paths..
+
+[2023/08/04 15:00:23.652] [SE]:Caching scripts..
+
+[2023/08/04 15:00:23.66] [SE]:Installing game interface functions..
+
+[2023/08/04 15:00:23.661] [SE]:Running main.lua script..
+
+[2023/08/04 15:00:23.662] [SE]:ChatterEngine:initialize()
+
+[2023/08/04 15:00:23.662] [SE]:Registered service ChatterEngine!
+
+[2023/08/04 15:00:23.663] [SE]:DebugTools:initialize()
+
+[2023/08/04 15:00:23.663] [SE]:Registered service DebugTools!
+
+[2023/08/04 15:00:23.664] [SE]:UpgradeTools:initialize()
+
+[2023/08/04 15:00:23.664] [SE]:Registered service UpgradeTools!
+
+[2023/08/04 15:00:23.665] [SE]: **- Lua engine ready! -**
+
+[2023/08/04 15:00:23.665] [SE]:Re-initializing scripts!
+
+[2023/08/04 15:00:23.665] [SE]:Loading last serialized script variables!
+
+[2023/08/04 15:00:24.067] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:01:05.683] Zone Seed: 0
+
+[2023/08/04 15:01:05.876] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.resx" strings file for this map!
+
+[2023/08/04 15:01:05.877] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr.resx" strings file for this map!
+
+[2023/08/04 15:01:05.878] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr-ca.resx" strings file for this map!
+
+[2023/08/04 15:01:05.878] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.de.resx" strings file for this map!
+
+[2023/08/04 15:01:05.878] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es.resx" strings file for this map!
+
+[2023/08/04 15:01:05.879] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es-la.resx" strings file for this map!
+
+[2023/08/04 15:01:05.879] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.it.resx" strings file for this map!
+
+[2023/08/04 15:01:05.879] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.pt.resx" strings file for this map!
+
+[2023/08/04 15:01:05.88] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ko.resx" strings file for this map!
+
+[2023/08/04 15:01:05.88] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja.resx" strings file for this map!
+
+[2023/08/04 15:01:05.88] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja-jp.resx" strings file for this map!
+
+[2023/08/04 15:01:05.881] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hans.resx" strings file for this map!
+
+[2023/08/04 15:01:05.881] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hant.resx" strings file for this map!
+
+[2023/08/04 15:01:17.823] GroundMap.~GroundMap(): Finalizing ..
+
+[2023/08/04 15:01:17.876] [SE]:LuaEngine.RunMapScript(): Error running map script!:
+cannot open C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test\init.lua: No such file or directory
+path:
+C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test\init.lua
+
+[2023/08/04 15:01:17.886] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.resx" strings file for this map!
+
+[2023/08/04 15:01:17.886] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.fr.resx" strings file for this map!
+
+[2023/08/04 15:01:17.886] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.fr-ca.resx" strings file for this map!
+
+[2023/08/04 15:01:17.887] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.de.resx" strings file for this map!
+
+[2023/08/04 15:01:17.887] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.es.resx" strings file for this map!
+
+[2023/08/04 15:01:17.887] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.es-la.resx" strings file for this map!
+
+[2023/08/04 15:01:17.888] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.it.resx" strings file for this map!
+
+[2023/08/04 15:01:17.888] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.pt.resx" strings file for this map!
+
+[2023/08/04 15:01:17.888] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.ko.resx" strings file for this map!
+
+[2023/08/04 15:01:17.888] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.ja.resx" strings file for this map!
+
+[2023/08/04 15:01:17.889] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.ja-jp.resx" strings file for this map!
+
+[2023/08/04 15:01:17.889] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.zh-hans.resx" strings file for this map!
+
+[2023/08/04 15:01:17.89] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.zh-hant.resx" strings file for this map!
+
+[2023/08/04 15:10:36.983] LuaEngine.LoadSavedData()..
+
+[2023/08/04 15:10:36.984] GroundMap.~GroundMap(): Finalizing personality_test..
+
+[2023/08/04 15:10:36.986] Zone.~Zone(): Finalizing ..
+
+[2023/08/04 15:10:36.989] [SE]:*****************UpgradeTools:__gc()
+
+[2023/08/04 15:10:36.989] [SE]:*****************DebugTools:__gc()
+
+[2023/08/04 15:10:36.99] [SE]:Initialized Lua 5.3
+
+[2023/08/04 15:10:36.99] [SE]:Importing .NET packages..
+
+[2023/08/04 15:10:36.991] [SE]:Exposing game engine components instances..
+
+[2023/08/04 15:10:36.994] [SE]:Exposing script interface..
+
+[2023/08/04 15:10:36.995] [SE]:Setting up lua globals..
+
+[2023/08/04 15:10:36.996] [SE]:Setting up lua paths..
+
+[2023/08/04 15:10:36.997] [SE]:Caching scripts..
+
+[2023/08/04 15:10:37.005] [SE]:Installing game interface functions..
+
+[2023/08/04 15:10:37.006] [SE]:Running main.lua script..
+
+[2023/08/04 15:10:37.008] [SE]:ChatterEngine:initialize()
+
+[2023/08/04 15:10:37.008] [SE]:Registered service ChatterEngine!
+
+[2023/08/04 15:10:37.009] [SE]:DebugTools:initialize()
+
+[2023/08/04 15:10:37.009] [SE]:Registered service DebugTools!
+
+[2023/08/04 15:10:37.01] [SE]:UpgradeTools:initialize()
+
+[2023/08/04 15:10:37.01] [SE]:Registered service UpgradeTools!
+
+[2023/08/04 15:10:37.011] [SE]: **- Lua engine ready! -**
+
+[2023/08/04 15:10:37.011] [SE]:Re-initializing scripts!
+
+[2023/08/04 15:10:37.011] [SE]:Loading last serialized script variables!
+
+[2023/08/04 15:10:37.014] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:14:05.767] Backgrounds Reloaded.
+
+[2023/08/04 15:14:05.767] Frames from:
+C:\Users\EnderWolf\Downloads\Dream_Rainbow_Ex_Front.63.png
+have been imported.
+
+[2023/08/04 15:14:12.214] Backgrounds Reloaded.
+
+[2023/08/04 15:14:12.214] Frames from:
+C:\Users\EnderWolf\Downloads\Dream_Rainbow_Ex_Back.63.png
+have been imported.
+
+[2023/08/04 15:14:18.824] Zone Seed: 0
+
+[2023/08/04 15:14:18.842] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.resx" strings file for this map!
+
+[2023/08/04 15:14:18.842] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr.resx" strings file for this map!
+
+[2023/08/04 15:14:18.843] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr-ca.resx" strings file for this map!
+
+[2023/08/04 15:14:18.843] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.de.resx" strings file for this map!
+
+[2023/08/04 15:14:18.843] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es.resx" strings file for this map!
+
+[2023/08/04 15:14:18.844] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es-la.resx" strings file for this map!
+
+[2023/08/04 15:14:18.844] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.it.resx" strings file for this map!
+
+[2023/08/04 15:14:18.844] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.pt.resx" strings file for this map!
+
+[2023/08/04 15:14:18.845] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ko.resx" strings file for this map!
+
+[2023/08/04 15:14:18.845] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja.resx" strings file for this map!
+
+[2023/08/04 15:14:18.845] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja-jp.resx" strings file for this map!
+
+[2023/08/04 15:14:18.846] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hans.resx" strings file for this map!
+
+[2023/08/04 15:14:18.846] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hant.resx" strings file for this map!
+
+[2023/08/04 15:14:21.974] GroundMap.~GroundMap(): Finalizing ..
+
+[2023/08/04 15:14:21.98] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.resx" strings file for this map!
+
+[2023/08/04 15:14:21.98] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr.resx" strings file for this map!
+
+[2023/08/04 15:14:21.98] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr-ca.resx" strings file for this map!
+
+[2023/08/04 15:14:21.981] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.de.resx" strings file for this map!
+
+[2023/08/04 15:14:21.981] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es.resx" strings file for this map!
+
+[2023/08/04 15:14:21.981] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es-la.resx" strings file for this map!
+
+[2023/08/04 15:14:21.982] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.it.resx" strings file for this map!
+
+[2023/08/04 15:14:21.982] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.pt.resx" strings file for this map!
+
+[2023/08/04 15:14:21.982] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ko.resx" strings file for this map!
+
+[2023/08/04 15:14:21.983] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja.resx" strings file for this map!
+
+[2023/08/04 15:14:21.983] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja-jp.resx" strings file for this map!
+
+[2023/08/04 15:14:21.983] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hans.resx" strings file for this map!
+
+[2023/08/04 15:14:21.984] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hant.resx" strings file for this map!
+
+[2023/08/04 15:14:29.758] GroundMap.~GroundMap(): Finalizing ..
+
+[2023/08/04 15:14:29.764] [SE]:LuaEngine.RunMapScript(): Error running map script!:
+cannot open C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test\init.lua: No such file or directory
+path:
+C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test\init.lua
+
+[2023/08/04 15:14:29.768] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.resx" strings file for this map!
+
+[2023/08/04 15:14:29.768] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.fr.resx" strings file for this map!
+
+[2023/08/04 15:14:29.768] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.fr-ca.resx" strings file for this map!
+
+[2023/08/04 15:14:29.769] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.de.resx" strings file for this map!
+
+[2023/08/04 15:14:29.769] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.es.resx" strings file for this map!
+
+[2023/08/04 15:14:29.769] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.es-la.resx" strings file for this map!
+
+[2023/08/04 15:14:29.77] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.it.resx" strings file for this map!
+
+[2023/08/04 15:14:29.77] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.pt.resx" strings file for this map!
+
+[2023/08/04 15:14:29.77] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.ko.resx" strings file for this map!
+
+[2023/08/04 15:14:29.77] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.ja.resx" strings file for this map!
+
+[2023/08/04 15:14:29.771] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.ja-jp.resx" strings file for this map!
+
+[2023/08/04 15:14:29.771] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.zh-hans.resx" strings file for this map!
+
+[2023/08/04 15:14:29.771] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\personality_test): Couldn't open the "strings.zh-hant.resx" strings file for this map!
+
+[2023/08/04 15:15:45.631] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:15:48.731] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:15:51.547] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:15:57.255] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:16:01.26] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:18:26.768] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:20:46.119] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:21:51.223] LuaEngine.LoadSavedData()..
+
+[2023/08/04 15:21:51.223] GroundMap.~GroundMap(): Finalizing personality_test..
+
+[2023/08/04 15:21:51.224] Zone.~Zone(): Finalizing ..
+
+[2023/08/04 15:21:51.227] [SE]:*****************UpgradeTools:__gc()
+
+[2023/08/04 15:21:51.227] [SE]:*****************DebugTools:__gc()
+
+[2023/08/04 15:21:51.228] [SE]:Initialized Lua 5.3
+
+[2023/08/04 15:21:51.229] [SE]:Importing .NET packages..
+
+[2023/08/04 15:21:51.229] [SE]:Exposing game engine components instances..
+
+[2023/08/04 15:21:51.233] [SE]:Exposing script interface..
+
+[2023/08/04 15:21:51.234] [SE]:Setting up lua globals..
+
+[2023/08/04 15:21:51.235] [SE]:Setting up lua paths..
+
+[2023/08/04 15:21:51.236] [SE]:Caching scripts..
+
+[2023/08/04 15:21:51.244] [SE]:Installing game interface functions..
+
+[2023/08/04 15:21:51.245] [SE]:Running main.lua script..
+
+[2023/08/04 15:21:51.246] [SE]:ChatterEngine:initialize()
+
+[2023/08/04 15:21:51.247] [SE]:Registered service ChatterEngine!
+
+[2023/08/04 15:21:51.248] [SE]:DebugTools:initialize()
+
+[2023/08/04 15:21:51.248] [SE]:Registered service DebugTools!
+
+[2023/08/04 15:21:51.248] [SE]:UpgradeTools:initialize()
+
+[2023/08/04 15:21:51.249] [SE]:Registered service UpgradeTools!
+
+[2023/08/04 15:21:51.249] [SE]: **- Lua engine ready! -**
+
+[2023/08/04 15:21:51.249] [SE]:Re-initializing scripts!
+
+[2023/08/04 15:21:51.25] [SE]:Loading last serialized script variables!
+
+[2023/08/04 15:21:51.879] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:22:36.087] LuaEngine.LoadSavedData()..
+
+[2023/08/04 15:22:36.096] [SE]:
+<!> ExampleSvc: Preparing debug save file
+
+[2023/08/04 15:22:38.055] Zone Seed: 3187927503187011318
+
+[2023/08/04 15:22:38.062] Zone.OnInit(): Initializing the zone..
+
+[2023/08/04 15:22:38.074] Zone.LoadScriptEvents(): Added event Init to zone debug_zone!
+
+[2023/08/04 15:22:38.076] Zone.LoadScriptEvents(): Added event EnterSegment to zone debug_zone!
+
+[2023/08/04 15:22:38.076] Zone.LoadScriptEvents(): Added event ExitSegment to zone debug_zone!
+
+[2023/08/04 15:22:38.076] Zone.LoadScriptEvents(): Added event Rescued to zone debug_zone!
+
+[2023/08/04 15:22:38.077] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/08/04 15:22:38.078] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/08/04 15:22:38.078] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/08/04 15:22:38.078] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/08/04 15:22:38.081] [SE]:=>> Init_debug
+
+[2023/08/04 15:22:38.086] [SE]:=>> EnterSegment_debug
+
+[2023/08/04 15:22:38.088] GroundMap.OnInit(): Initializing the map..
+
+[2023/08/04 15:22:38.088] GroundMap.LoadScriptEvents(): Added event Init to map personality_test!
+
+[2023/08/04 15:22:38.09] GroundMap.LoadScriptEvents(): Added event Enter to map personality_test!
+
+[2023/08/04 15:22:38.09] GroundMap.LoadScriptEvents(): Added event Exit to map personality_test!
+
+[2023/08/04 15:22:38.09] GroundMap.LoadScriptEvents(): Added event Update to map personality_test!
+
+[2023/08/04 15:22:38.091] GroundMap.LoadScriptEvents(): Added event GameSave to map personality_test!
+
+[2023/08/04 15:22:38.091] GroundMap.LoadScriptEvents(): Added event GameLoad to map personality_test!
+
+[2023/08/04 15:22:38.093] [SE]:AutoLoading Strings!..
+
+[2023/08/04 15:22:38.094] LuaEngine.OnGroundMapInit()..
+
+[2023/08/04 15:22:38.097] LuaEngine.OnGroundMapEnter()..
+
+[2023/08/04 15:22:38.137] LuaEngine.OnGroundMapExit()..
+
+[2023/08/04 15:22:38.138] GroundMap.~GroundMap(): Finalizing personality_test..
+
+[2023/08/04 15:22:38.138] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/08/04 15:22:38.139] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/08/04 15:22:38.139] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Exit!
+
+[2023/08/04 15:22:38.139] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/08/04 15:22:38.139] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameSave!
+
+[2023/08/04 15:22:38.14] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameLoad!
+
+[2023/08/04 15:22:38.141] Zone.~Zone(): Finalizing debug_zone..
+
+[2023/08/04 15:22:39.926] Zone Seed: 6883216420715142740
+
+[2023/08/04 15:22:39.932] Zone.OnInit(): Initializing the zone..
+
+[2023/08/04 15:22:39.933] Zone.LoadScriptEvents(): Added event Init to zone debug_zone!
+
+[2023/08/04 15:22:39.933] Zone.LoadScriptEvents(): Added event EnterSegment to zone debug_zone!
+
+[2023/08/04 15:22:39.933] Zone.LoadScriptEvents(): Added event ExitSegment to zone debug_zone!
+
+[2023/08/04 15:22:39.934] Zone.LoadScriptEvents(): Added event Rescued to zone debug_zone!
+
+[2023/08/04 15:22:39.934] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/08/04 15:22:39.934] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/08/04 15:22:39.935] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/08/04 15:22:39.935] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/08/04 15:22:39.935] [SE]:=>> Init_debug
+
+[2023/08/04 15:22:39.937] [SE]:=>> EnterSegment_debug
+
+[2023/08/04 15:22:39.937] GroundMap.OnInit(): Initializing the map..
+
+[2023/08/04 15:22:39.937] GroundMap.LoadScriptEvents(): Added event Init to map personality_test!
+
+[2023/08/04 15:22:39.937] GroundMap.LoadScriptEvents(): Added event Enter to map personality_test!
+
+[2023/08/04 15:22:39.938] GroundMap.LoadScriptEvents(): Added event Exit to map personality_test!
+
+[2023/08/04 15:22:39.938] GroundMap.LoadScriptEvents(): Added event Update to map personality_test!
+
+[2023/08/04 15:22:39.938] GroundMap.LoadScriptEvents(): Added event GameSave to map personality_test!
+
+[2023/08/04 15:22:39.939] GroundMap.LoadScriptEvents(): Added event GameLoad to map personality_test!
+
+[2023/08/04 15:22:39.939] [SE]:AutoLoading Strings!..
+
+[2023/08/04 15:22:39.94] LuaEngine.OnGroundMapInit()..
+
+[2023/08/04 15:22:39.94] LuaEngine.OnGroundMapEnter()..
+
+[2023/08/04 15:22:40.576] LuaEngine.OnMusicChange()..
+
+[2023/08/04 15:24:36.494] [SE]:ChatterEngine:OnDeinit()
+
+[2023/08/04 15:24:36.495] [SE]:
+<!> ExampleSvc: Deinit..
+
+[2023/08/04 15:24:36.497] LuaEngine.OnGraphicsUnload()..
+

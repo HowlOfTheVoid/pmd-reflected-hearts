@@ -1,0 +1,3334 @@
+[2023/07/30 21:02:04.149] =========================================
+
+[2023/07/30 21:02:04.152] SESSION STARTED: 2023/07/30 21:02:04
+
+[2023/07/30 21:02:04.153] Version: 0.7.14.0
+
+[2023/07/30 21:02:04.153] .NET 6.0.20
+
+[2023/07/30 21:02:04.153] =========================================
+
+[2023/07/30 21:02:07.486] FNA3D Driver: D3D11
+
+[2023/07/30 21:02:07.488] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 21:02:07.6] FNA3D Driver: D3D11
+
+[2023/07/30 21:02:07.601] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 21:02:07.782] [SE]:Initialized Lua 5.3
+
+[2023/07/30 21:02:07.783] [SE]:Importing .NET packages..
+
+[2023/07/30 21:02:07.793] [SE]:Exposing game engine components instances..
+
+[2023/07/30 21:02:07.799] [SE]:Exposing script interface..
+
+[2023/07/30 21:02:07.815] [SE]:Setting up lua globals..
+
+[2023/07/30 21:02:07.816] [SE]:Setting up lua paths..
+
+[2023/07/30 21:02:07.825] [SE]:Caching scripts..
+
+[2023/07/30 21:02:07.889] [SE]:Installing game interface functions..
+
+[2023/07/30 21:02:07.89] [SE]:Running main.lua script..
+
+[2023/07/30 21:02:07.909] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 21:02:07.912] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 21:02:07.917] [SE]:DebugTools:initialize()
+
+[2023/07/30 21:02:07.917] [SE]:Registered service DebugTools!
+
+[2023/07/30 21:02:07.922] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 21:02:07.922] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 21:02:07.922] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 21:02:10.383] [SE]:ChatterEngine:OnInit()
+
+[2023/07/30 21:02:10.383] [SE]:
+<!> ExampleSvc: Init..
+
+[2023/07/30 21:02:10.387] LuaEngine.LoadSavedData()..
+
+[2023/07/30 21:02:10.389] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 21:02:10.39] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 21:02:10.391] [SE]:Initialized Lua 5.3
+
+[2023/07/30 21:02:10.391] [SE]:Importing .NET packages..
+
+[2023/07/30 21:02:10.391] [SE]:Exposing game engine components instances..
+
+[2023/07/30 21:02:10.399] [SE]:Exposing script interface..
+
+[2023/07/30 21:02:10.4] [SE]:Setting up lua globals..
+
+[2023/07/30 21:02:10.4] [SE]:Setting up lua paths..
+
+[2023/07/30 21:02:10.401] [SE]:Caching scripts..
+
+[2023/07/30 21:02:10.409] [SE]:Installing game interface functions..
+
+[2023/07/30 21:02:10.41] [SE]:Running main.lua script..
+
+[2023/07/30 21:02:10.411] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 21:02:10.412] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 21:02:10.412] [SE]:DebugTools:initialize()
+
+[2023/07/30 21:02:10.412] [SE]:Registered service DebugTools!
+
+[2023/07/30 21:02:10.413] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 21:02:10.413] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 21:02:10.414] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 21:02:10.414] [SE]:Re-initializing scripts!
+
+[2023/07/30 21:02:10.414] [SE]:Loading last serialized script variables!
+
+[2023/07/30 21:02:10.812] LuaEngine.OnMusicChange()..
+
+[2023/07/30 21:02:14.835] LuaEngine.LoadSavedData()..
+
+[2023/07/30 21:02:14.843] [SE]:
+<!> ExampleSvc: Preparing debug save file
+
+[2023/07/30 21:02:17.221] Zone Seed: 6527169954590521921
+
+[2023/07/30 21:02:17.29] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 21:02:17.296] Zone.LoadScriptEvents(): Added event Init to zone debug_zone!
+
+[2023/07/30 21:02:17.297] Zone.LoadScriptEvents(): Added event EnterSegment to zone debug_zone!
+
+[2023/07/30 21:02:17.298] Zone.LoadScriptEvents(): Added event ExitSegment to zone debug_zone!
+
+[2023/07/30 21:02:17.298] Zone.LoadScriptEvents(): Added event Rescued to zone debug_zone!
+
+[2023/07/30 21:02:17.299] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 21:02:17.299] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 21:02:17.299] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 21:02:17.3] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 21:02:17.302] [SE]:=>> Init_debug
+
+[2023/07/30 21:02:17.309] [SE]:=>> EnterSegment_debug
+
+[2023/07/30 21:02:17.31] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 21:02:17.317] GroundMap.LoadScriptEvents(): Added event Init to map test_grounds!
+
+[2023/07/30 21:02:17.319] GroundMap.LoadScriptEvents(): Added event Enter to map test_grounds!
+
+[2023/07/30 21:02:17.319] GroundMap.LoadScriptEvents(): Added event Update to map test_grounds!
+
+[2023/07/30 21:02:17.319] GroundMap.LoadScriptEvents(): Added event GameSave to map test_grounds!
+
+[2023/07/30 21:02:17.32] GroundMap.LoadScriptEvents(): Added event GameLoad to map test_grounds!
+
+[2023/07/30 21:02:17.324] GroundEntity.ReloadEvents(): Added event Action to entity Mew!
+
+[2023/07/30 21:02:17.325] GroundEntity.ReloadEvents(): Added event Action to entity Caterpie!
+
+[2023/07/30 21:02:17.326] GroundEntity.ReloadEvents(): Added event Action to entity Butterfree!
+
+[2023/07/30 21:02:17.326] GroundEntity.ReloadEvents(): Added event Action to entity Illumise!
+
+[2023/07/30 21:02:17.326] GroundEntity.ReloadEvents(): Added event Action to entity Volbeat!
+
+[2023/07/30 21:02:17.326] GroundEntity.ReloadEvents(): Added event Action to entity Magnezone!
+
+[2023/07/30 21:02:17.327] GroundEntity.ReloadEvents(): Added event Action to entity Hungrybox!
+
+[2023/07/30 21:02:17.327] GroundEntity.ReloadEvents(): Added event Action to entity Poochy!
+
+[2023/07/30 21:02:17.327] GroundEntity.ReloadEvents(): Added event Action to entity Sign1!
+
+[2023/07/30 21:02:17.327] GroundEntity.ReloadEvents(): Added event Action to entity Sign2!
+
+[2023/07/30 21:02:17.327] GroundEntity.ReloadEvents(): Added event Action to entity Sign3!
+
+[2023/07/30 21:02:17.328] GroundEntity.ReloadEvents(): Added event Action to entity Sign4!
+
+[2023/07/30 21:02:17.328] GroundEntity.ReloadEvents(): Added event Action to entity Sign5!
+
+[2023/07/30 21:02:17.328] GroundEntity.ReloadEvents(): Added event Touch to entity SouthExit!
+
+[2023/07/30 21:02:17.328] GroundEntity.ReloadEvents(): Added event Touch to entity Entrance!
+
+[2023/07/30 21:02:17.328] GroundEntity.ReloadEvents(): Added event Touch to entity Activation!
+
+[2023/07/30 21:02:17.329] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 21:02:17.329] GroundEntity.ReloadEvents(): Added event EntSpawned to entity MerchantSpawner!
+
+[2023/07/30 21:02:17.329] GroundEntity.ReloadEvents(): Added event EntSpawned to entity MerchantSpawner2!
+
+[2023/07/30 21:02:17.33] [SE]:=>> Init_test_grounds <<=
+
+[2023/07/30 21:02:17.331] [SE]:AutoLoading Strings!..
+
+[2023/07/30 21:02:17.362] GroundEntity.ReloadEvents(): Added event Action to entity Merchant!
+
+[2023/07/30 21:02:17.362] GroundEntity.ReloadEvents(): Added event Action to entity Merchant!
+
+[2023/07/30 21:02:17.362] [SE]:test_grounds.MerchantSpawner_EntSpawned()!!
+
+[2023/07/30 21:02:17.363] GroundEntity.ReloadEvents(): Added event Action to entity Merchant2!
+
+[2023/07/30 21:02:17.363] GroundEntity.ReloadEvents(): Added event Action to entity Merchant2!
+
+[2023/07/30 21:02:17.363] [SE]:test_grounds.MerchantSpawner_EntSpawned()!!
+
+[2023/07/30 21:02:17.364] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 21:02:17.366] [SE]:Enter_test_grounds
+
+[2023/07/30 21:02:17.367] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 21:02:18.131] LuaEngine.OnMusicChange()..
+
+[2023/07/30 21:02:22.153] LuaEngine.OnMenuButtonPressed()...
+
+[2023/07/30 21:02:47.481] [SE]:Hungrybox_Action
+
+[2023/07/30 21:03:01.9] RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+Exception Depth: 0
+NLua.Exceptions.LuaScriptException: ...eflected-hearts/Data/Script/ground\test_grounds/init.lua:539: RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+RogueEssence.Menu.MenuManager+<processInternalCoroutine>d__50
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__17
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__16
+ScriptEvent: CURMAPSCR.Hungrybox_Action
+RogueEssence.Ground.GroundEntity+<RunEvent>d__52
+RogueEssence.Ground.GroundChar+<Interact>d__78
+RogueEssence.Ground.GroundScene+<ProcessObjectInteract>d__25
+RogueEssence.Ground.GroundScene+<ProcessInput>d__47
+RogueEssence.Ground.GroundScene+<ProcessInput>d__14
+RogueEssence.Ground.GroundScene+<ProcessInput>d__13
+RogueEssence.GameManager+<ScreenMainCoroutine>d__65
+[2023/07/30 21:03:02.064] RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+Exception Depth: 0
+NLua.Exceptions.LuaScriptException: ...eflected-hearts/Data/Script/ground\test_grounds/init.lua:539: RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+RogueEssence.Menu.MenuManager+<processInternalCoroutine>d__50
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__17
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__16
+ScriptEvent: CURMAPSCR.Hungrybox_Action
+RogueEssence.Ground.GroundEntity+<RunEvent>d__52
+RogueEssence.Ground.GroundChar+<Interact>d__78
+RogueEssence.Ground.GroundScene+<ProcessObjectInteract>d__25
+RogueEssence.Ground.GroundScene+<ProcessInput>d__47
+RogueEssence.Ground.GroundScene+<ProcessInput>d__14
+RogueEssence.Ground.GroundScene+<ProcessInput>d__13
+RogueEssence.GameManager+<ScreenMainCoroutine>d__65
+[2023/07/30 21:03:02.831] RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+Exception Depth: 0
+NLua.Exceptions.LuaScriptException: ...eflected-hearts/Data/Script/ground\test_grounds/init.lua:539: RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+RogueEssence.Menu.MenuManager+<processInternalCoroutine>d__50
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__17
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__16
+ScriptEvent: CURMAPSCR.Hungrybox_Action
+RogueEssence.Ground.GroundEntity+<RunEvent>d__52
+RogueEssence.Ground.GroundChar+<Interact>d__78
+RogueEssence.Ground.GroundScene+<ProcessObjectInteract>d__25
+RogueEssence.Ground.GroundScene+<ProcessInput>d__47
+RogueEssence.Ground.GroundScene+<ProcessInput>d__14
+RogueEssence.Ground.GroundScene+<ProcessInput>d__13
+RogueEssence.GameManager+<ScreenMainCoroutine>d__65
+[2023/07/30 21:03:03.031] RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+Exception Depth: 0
+NLua.Exceptions.LuaScriptException: ...eflected-hearts/Data/Script/ground\test_grounds/init.lua:539: RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+RogueEssence.Menu.MenuManager+<processInternalCoroutine>d__50
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__17
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__16
+ScriptEvent: CURMAPSCR.Hungrybox_Action
+RogueEssence.Ground.GroundEntity+<RunEvent>d__52
+RogueEssence.Ground.GroundChar+<Interact>d__78
+RogueEssence.Ground.GroundScene+<ProcessObjectInteract>d__25
+RogueEssence.Ground.GroundScene+<ProcessInput>d__47
+RogueEssence.Ground.GroundScene+<ProcessInput>d__14
+RogueEssence.Ground.GroundScene+<ProcessInput>d__13
+RogueEssence.GameManager+<ScreenMainCoroutine>d__65
+[2023/07/30 21:03:03.198] RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+Exception Depth: 0
+NLua.Exceptions.LuaScriptException: ...eflected-hearts/Data/Script/ground\test_grounds/init.lua:539: RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+RogueEssence.Menu.MenuManager+<processInternalCoroutine>d__50
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__17
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__16
+ScriptEvent: CURMAPSCR.Hungrybox_Action
+RogueEssence.Ground.GroundEntity+<RunEvent>d__52
+RogueEssence.Ground.GroundChar+<Interact>d__78
+RogueEssence.Ground.GroundScene+<ProcessObjectInteract>d__25
+RogueEssence.Ground.GroundScene+<ProcessInput>d__47
+RogueEssence.Ground.GroundScene+<ProcessInput>d__14
+RogueEssence.Ground.GroundScene+<ProcessInput>d__13
+RogueEssence.GameManager+<ScreenMainCoroutine>d__65
+[2023/07/30 21:03:04.531] RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+Exception Depth: 0
+NLua.Exceptions.LuaScriptException: ...eflected-hearts/Data/Script/ground\test_grounds/init.lua:539: RogueEssence.Menu.ScriptableSingleStripMenu does not contain constructor(.ctor) argument match
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+RogueEssence.Menu.MenuManager+<processInternalCoroutine>d__50
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__17
+RogueEssence.Menu.MenuManager+<ProcessMenuCoroutine>d__16
+ScriptEvent: CURMAPSCR.Hungrybox_Action
+RogueEssence.Ground.GroundEntity+<RunEvent>d__52
+RogueEssence.Ground.GroundChar+<Interact>d__78
+RogueEssence.Ground.GroundScene+<ProcessObjectInteract>d__25
+RogueEssence.Ground.GroundScene+<ProcessInput>d__47
+RogueEssence.Ground.GroundScene+<ProcessInput>d__14
+RogueEssence.Ground.GroundScene+<ProcessInput>d__13
+RogueEssence.GameManager+<ScreenMainCoroutine>d__65
+[2023/07/30 21:03:19.299] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 21:03:19.299] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 21:03:19.303] [SE]:Initialized Lua 5.3
+
+[2023/07/30 21:03:19.304] [SE]:Importing .NET packages..
+
+[2023/07/30 21:03:19.304] [SE]:Exposing game engine components instances..
+
+[2023/07/30 21:03:19.308] [SE]:Exposing script interface..
+
+[2023/07/30 21:03:19.309] [SE]:Setting up lua globals..
+
+[2023/07/30 21:03:19.309] [SE]:Setting up lua paths..
+
+[2023/07/30 21:03:19.31] [SE]:Caching scripts..
+
+[2023/07/30 21:03:19.318] [SE]:Installing game interface functions..
+
+[2023/07/30 21:03:19.319] [SE]:Running main.lua script..
+
+[2023/07/30 21:03:19.32] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 21:03:19.32] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 21:03:19.321] [SE]:DebugTools:initialize()
+
+[2023/07/30 21:03:19.321] [SE]:Registered service DebugTools!
+
+[2023/07/30 21:03:19.322] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 21:03:19.322] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 21:03:19.323] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 21:03:19.323] [SE]:Re-initializing scripts!
+
+[2023/07/30 21:03:19.323] [SE]:Loading last serialized script variables!
+
+[2023/07/30 21:03:19.323] LuaEngine.LoadSavedData()..
+
+[2023/07/30 21:03:19.327] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 21:03:19.327] Zone.LoadScriptEvents(): Added event Init to zone debug_zone!
+
+[2023/07/30 21:03:19.328] Zone.LoadScriptEvents(): Added event EnterSegment to zone debug_zone!
+
+[2023/07/30 21:03:19.328] Zone.LoadScriptEvents(): Added event ExitSegment to zone debug_zone!
+
+[2023/07/30 21:03:19.328] Zone.LoadScriptEvents(): Added event Rescued to zone debug_zone!
+
+[2023/07/30 21:03:19.328] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 21:03:19.329] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 21:03:19.329] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 21:03:19.329] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 21:03:19.33] [SE]:=>> Init_debug
+
+[2023/07/30 21:03:19.33] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 21:03:19.332] GroundMap.LoadScriptEvents(): Added event Init to map test_grounds!
+
+[2023/07/30 21:03:19.332] GroundMap.LoadScriptEvents(): Added event Enter to map test_grounds!
+
+[2023/07/30 21:03:19.332] GroundMap.LoadScriptEvents(): Added event Update to map test_grounds!
+
+[2023/07/30 21:03:19.332] GroundMap.LoadScriptEvents(): Added event GameSave to map test_grounds!
+
+[2023/07/30 21:03:19.333] GroundMap.LoadScriptEvents(): Added event GameLoad to map test_grounds!
+
+[2023/07/30 21:03:19.333] GroundEntity.ReloadEvents(): Added event Action to entity Mew!
+
+[2023/07/30 21:03:19.333] GroundEntity.ReloadEvents(): Added event Action to entity Caterpie!
+
+[2023/07/30 21:03:19.334] GroundEntity.ReloadEvents(): Added event Action to entity Butterfree!
+
+[2023/07/30 21:03:19.334] GroundEntity.ReloadEvents(): Added event Action to entity Illumise!
+
+[2023/07/30 21:03:19.334] GroundEntity.ReloadEvents(): Added event Action to entity Volbeat!
+
+[2023/07/30 21:03:19.335] GroundEntity.ReloadEvents(): Added event Action to entity Magnezone!
+
+[2023/07/30 21:03:19.335] GroundEntity.ReloadEvents(): Added event Action to entity Hungrybox!
+
+[2023/07/30 21:03:19.337] GroundEntity.ReloadEvents(): Added event Action to entity Poochy!
+
+[2023/07/30 21:03:19.338] GroundEntity.ReloadEvents(): Added event Action to entity Merchant!
+
+[2023/07/30 21:03:19.338] GroundEntity.ReloadEvents(): Added event Action to entity Merchant2!
+
+[2023/07/30 21:03:19.339] GroundEntity.ReloadEvents(): Added event Action to entity Sign1!
+
+[2023/07/30 21:03:19.339] GroundEntity.ReloadEvents(): Added event Action to entity Sign2!
+
+[2023/07/30 21:03:19.339] GroundEntity.ReloadEvents(): Added event Action to entity Sign3!
+
+[2023/07/30 21:03:19.339] GroundEntity.ReloadEvents(): Added event Action to entity Sign4!
+
+[2023/07/30 21:03:19.34] GroundEntity.ReloadEvents(): Added event Action to entity Sign5!
+
+[2023/07/30 21:03:19.34] GroundEntity.ReloadEvents(): Added event Touch to entity SouthExit!
+
+[2023/07/30 21:03:19.34] GroundEntity.ReloadEvents(): Added event Touch to entity Entrance!
+
+[2023/07/30 21:03:19.341] GroundEntity.ReloadEvents(): Added event Touch to entity Activation!
+
+[2023/07/30 21:03:19.342] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 21:03:19.342] GroundEntity.ReloadEvents(): Added event EntSpawned to entity MerchantSpawner!
+
+[2023/07/30 21:03:19.343] GroundEntity.ReloadEvents(): Added event EntSpawned to entity MerchantSpawner2!
+
+[2023/07/30 21:03:19.343] [SE]:=>> Init_test_grounds <<=
+
+[2023/07/30 21:03:19.343] [SE]:AutoLoading Strings!..
+
+[2023/07/30 21:03:19.345] GroundEntity.ReloadEvents(): Added event Action to entity Merchant!
+
+[2023/07/30 21:03:19.345] GroundEntity.ReloadEvents(): Added event Action to entity Merchant!
+
+[2023/07/30 21:03:19.345] [SE]:test_grounds.MerchantSpawner_EntSpawned()!!
+
+[2023/07/30 21:03:19.346] GroundEntity.ReloadEvents(): Added event Action to entity Merchant2!
+
+[2023/07/30 21:03:19.346] GroundEntity.ReloadEvents(): Added event Action to entity Merchant2!
+
+[2023/07/30 21:03:19.346] [SE]:test_grounds.MerchantSpawner_EntSpawned()!!
+
+[2023/07/30 21:03:19.347] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 21:03:23.738] [SE]:ChatterEngine:OnDeinit()
+
+[2023/07/30 21:03:23.739] [SE]:
+<!> ExampleSvc: Deinit..
+
+[2023/07/30 21:03:23.743] LuaEngine.OnGraphicsUnload()..
+
+[2023/07/30 21:03:23.745] Object reference not set to an instance of an object.
+Exception Depth: 0
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at RogueEssence.Dev.ViewModels.DevTabModsViewModel.doSwitch()
+   at RogueEssence.Dev.Views.DevForm.ExecuteOrPend(Action action)
+   at RogueEssence.Dev.ViewModels.DevTabModsViewModel.btnSwitch_Click()
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at Avalonia.Threading.AvaloniaSynchronizationContext.<>c__DisplayClass5_0.<Post>b__0() in /_/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs:line 33
+   at Avalonia.Threading.JobRunner.RunJobs(Nullable`1 priority) in /_/src/Avalonia.Base/Threading/JobRunner.cs:line 37
+   at Avalonia.Win32.Win32Platform.WndProc(IntPtr hWnd, UInt32 msg, IntPtr wParam, IntPtr lParam) in /_/src/Windows/Avalonia.Win32/Win32Platform.cs:line 210
+   at SDL2.SDL.SDL_PollEvent(SDL_Event& _event)
+   at Microsoft.Xna.Framework.SDL2_FNAPlatform.PollEvents(Game game, GraphicsAdapter& currentAdapter, Boolean[] textInputControlDown, Boolean& textInputSuppress)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run()
+   at RogueEssence.Dev.Views.DevForm.LoadGameDelegate()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 21:03:27.562] =========================================
+
+[2023/07/30 21:03:27.564] SESSION STARTED: 2023/07/30 21:03:27
+
+[2023/07/30 21:03:27.564] Version: 0.7.14.0
+
+[2023/07/30 21:03:27.565] .NET 6.0.20
+
+[2023/07/30 21:03:27.565] =========================================
+
+[2023/07/30 21:03:29.43] FNA3D Driver: D3D11
+
+[2023/07/30 21:03:29.432] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 21:03:29.539] FNA3D Driver: D3D11
+
+[2023/07/30 21:03:29.539] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 21:03:29.565] [SE]:Initialized Lua 5.3
+
+[2023/07/30 21:03:29.566] [SE]:Importing .NET packages..
+
+[2023/07/30 21:03:29.571] [SE]:Exposing game engine components instances..
+
+[2023/07/30 21:03:29.576] [SE]:Exposing script interface..
+
+[2023/07/30 21:03:29.579] [SE]:Setting up lua globals..
+
+[2023/07/30 21:03:29.58] [SE]:Setting up lua paths..
+
+[2023/07/30 21:03:29.585] [SE]:Caching scripts..
+
+[2023/07/30 21:03:29.601] [SE]:Installing game interface functions..
+
+[2023/07/30 21:03:29.602] [SE]:Running main.lua script..
+
+[2023/07/30 21:03:29.607] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 21:03:29.61] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 21:03:29.611] [SE]:DebugTools:initialize()
+
+[2023/07/30 21:03:29.611] [SE]:Registered service DebugTools!
+
+[2023/07/30 21:03:29.612] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 21:03:29.612] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 21:03:29.612] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 21:03:31.003] [SE]:ChatterEngine:OnInit()
+
+[2023/07/30 21:03:31.004] [SE]:
+<!> ExampleSvc: Init..
+
+[2023/07/30 21:03:31.007] LuaEngine.LoadSavedData()..
+
+[2023/07/30 21:03:31.01] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 21:03:31.01] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 21:03:31.011] [SE]:Initialized Lua 5.3
+
+[2023/07/30 21:03:31.011] [SE]:Importing .NET packages..
+
+[2023/07/30 21:03:31.012] [SE]:Exposing game engine components instances..
+
+[2023/07/30 21:03:31.019] [SE]:Exposing script interface..
+
+[2023/07/30 21:03:31.02] [SE]:Setting up lua globals..
+
+[2023/07/30 21:03:31.02] [SE]:Setting up lua paths..
+
+[2023/07/30 21:03:31.021] [SE]:Caching scripts..
+
+[2023/07/30 21:03:31.03] [SE]:Installing game interface functions..
+
+[2023/07/30 21:03:31.03] [SE]:Running main.lua script..
+
+[2023/07/30 21:03:31.032] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 21:03:31.032] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 21:03:31.033] [SE]:DebugTools:initialize()
+
+[2023/07/30 21:03:31.033] [SE]:Registered service DebugTools!
+
+[2023/07/30 21:03:31.034] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 21:03:31.034] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 21:03:31.034] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 21:03:31.035] [SE]:Re-initializing scripts!
+
+[2023/07/30 21:03:31.035] [SE]:Loading last serialized script variables!
+
+[2023/07/30 21:03:31.335] LuaEngine.OnMusicChange()..
+
+[2023/07/30 21:34:41.99] LuaEngine.LoadSavedData()..
+
+[2023/07/30 21:34:41.997] [SE]:
+<!> ExampleSvc: Preparing debug save file
+
+[2023/07/30 21:34:44.162] Zone Seed: 5148164434472831683
+
+[2023/07/30 21:34:44.217] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 21:34:44.219] Zone.LoadScriptEvents(): Added event Init to zone debug_zone!
+
+[2023/07/30 21:34:44.221] Zone.LoadScriptEvents(): Added event EnterSegment to zone debug_zone!
+
+[2023/07/30 21:34:44.225] Zone.LoadScriptEvents(): Added event ExitSegment to zone debug_zone!
+
+[2023/07/30 21:34:44.225] Zone.LoadScriptEvents(): Added event Rescued to zone debug_zone!
+
+[2023/07/30 21:34:44.226] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 21:34:44.227] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 21:34:44.227] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 21:34:44.227] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 21:34:44.23] [SE]:=>> Init_debug
+
+[2023/07/30 21:34:44.233] [SE]:=>> EnterSegment_debug
+
+[2023/07/30 21:34:44.235] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 21:34:44.237] GroundMap.LoadScriptEvents(): Added event Init to map test_grounds!
+
+[2023/07/30 21:34:44.239] GroundMap.LoadScriptEvents(): Added event Enter to map test_grounds!
+
+[2023/07/30 21:34:44.239] GroundMap.LoadScriptEvents(): Added event Update to map test_grounds!
+
+[2023/07/30 21:34:44.239] GroundMap.LoadScriptEvents(): Added event GameSave to map test_grounds!
+
+[2023/07/30 21:34:44.24] GroundMap.LoadScriptEvents(): Added event GameLoad to map test_grounds!
+
+[2023/07/30 21:34:44.244] GroundEntity.ReloadEvents(): Added event Action to entity Mew!
+
+[2023/07/30 21:34:44.245] GroundEntity.ReloadEvents(): Added event Action to entity Caterpie!
+
+[2023/07/30 21:34:44.246] GroundEntity.ReloadEvents(): Added event Action to entity Butterfree!
+
+[2023/07/30 21:34:44.246] GroundEntity.ReloadEvents(): Added event Action to entity Illumise!
+
+[2023/07/30 21:34:44.246] GroundEntity.ReloadEvents(): Added event Action to entity Volbeat!
+
+[2023/07/30 21:34:44.247] GroundEntity.ReloadEvents(): Added event Action to entity Magnezone!
+
+[2023/07/30 21:34:44.247] GroundEntity.ReloadEvents(): Added event Action to entity Hungrybox!
+
+[2023/07/30 21:34:44.247] GroundEntity.ReloadEvents(): Added event Action to entity Poochy!
+
+[2023/07/30 21:34:44.248] GroundEntity.ReloadEvents(): Added event Action to entity Sign1!
+
+[2023/07/30 21:34:44.248] GroundEntity.ReloadEvents(): Added event Action to entity Sign2!
+
+[2023/07/30 21:34:44.248] GroundEntity.ReloadEvents(): Added event Action to entity Sign3!
+
+[2023/07/30 21:34:44.248] GroundEntity.ReloadEvents(): Added event Action to entity Sign4!
+
+[2023/07/30 21:34:44.249] GroundEntity.ReloadEvents(): Added event Action to entity Sign5!
+
+[2023/07/30 21:34:44.249] GroundEntity.ReloadEvents(): Added event Touch to entity SouthExit!
+
+[2023/07/30 21:34:44.249] GroundEntity.ReloadEvents(): Added event Touch to entity Entrance!
+
+[2023/07/30 21:34:44.25] GroundEntity.ReloadEvents(): Added event Touch to entity Activation!
+
+[2023/07/30 21:34:44.25] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 21:34:44.25] GroundEntity.ReloadEvents(): Added event EntSpawned to entity MerchantSpawner!
+
+[2023/07/30 21:34:44.251] GroundEntity.ReloadEvents(): Added event EntSpawned to entity MerchantSpawner2!
+
+[2023/07/30 21:34:44.259] [SE]:=>> Init_test_grounds <<=
+
+[2023/07/30 21:34:44.259] [SE]:AutoLoading Strings!..
+
+[2023/07/30 21:34:44.269] GroundEntity.ReloadEvents(): Added event Action to entity Merchant!
+
+[2023/07/30 21:34:44.269] GroundEntity.ReloadEvents(): Added event Action to entity Merchant!
+
+[2023/07/30 21:34:44.269] [SE]:test_grounds.MerchantSpawner_EntSpawned()!!
+
+[2023/07/30 21:34:44.27] GroundEntity.ReloadEvents(): Added event Action to entity Merchant2!
+
+[2023/07/30 21:34:44.27] GroundEntity.ReloadEvents(): Added event Action to entity Merchant2!
+
+[2023/07/30 21:34:44.27] [SE]:test_grounds.MerchantSpawner_EntSpawned()!!
+
+[2023/07/30 21:34:44.271] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 21:34:44.273] [SE]:Enter_test_grounds
+
+[2023/07/30 21:34:44.274] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 21:34:44.986] LuaEngine.OnMusicChange()..
+
+[2023/07/30 21:34:55.119] [SE]:LuaEngine.RunString(): Error executing string:
+[string "chunk"]:1: syntax error near <eof>
+Content:
+RogueEssence.Dungeon.Character
+
+[2023/07/30 21:35:24.125] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 21:35:24.126] GroundMap.~GroundMap(): Finalizing test_grounds..
+
+[2023/07/30 21:35:24.127] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 21:35:24.127] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 21:35:24.127] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 21:35:24.128] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameSave!
+
+[2023/07/30 21:35:24.128] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameLoad!
+
+[2023/07/30 21:35:24.129] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Mew_Action!
+
+[2023/07/30 21:35:24.129] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Caterpie_Action!
+
+[2023/07/30 21:35:24.13] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Butterfree_Action!
+
+[2023/07/30 21:35:24.13] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Illumise_Action!
+
+[2023/07/30 21:35:24.13] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Volbeat_Action!
+
+[2023/07/30 21:35:24.13] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Magnezone_Action!
+
+[2023/07/30 21:35:24.131] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Hungrybox_Action!
+
+[2023/07/30 21:35:24.131] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Poochy_Action!
+
+[2023/07/30 21:35:24.131] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Merchant_Action!
+
+[2023/07/30 21:35:24.132] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Merchant2_Action!
+
+[2023/07/30 21:35:24.132] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Sign1_Action!
+
+[2023/07/30 21:35:24.132] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Sign2_Action!
+
+[2023/07/30 21:35:24.133] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Sign3_Action!
+
+[2023/07/30 21:35:24.133] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Sign4_Action!
+
+[2023/07/30 21:35:24.133] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Sign5_Action!
+
+[2023/07/30 21:35:24.133] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.SouthExit_Touch!
+
+[2023/07/30 21:35:24.134] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Entrance_Touch!
+
+[2023/07/30 21:35:24.134] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Activation_Touch!
+
+[2023/07/30 21:35:24.134] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Assembly_Action!
+
+[2023/07/30 21:35:24.135] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.MerchantSpawner_EntSpawned!
+
+[2023/07/30 21:35:24.135] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.MerchantSpawner2_EntSpawned!
+
+[2023/07/30 21:35:24.14] Zone.~Zone(): Finalizing debug_zone..
+
+[2023/07/30 21:35:24.143] Zone Seed: 11732345803327302227
+
+[2023/07/30 21:35:24.182] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 21:35:24.187] Zone.LoadScriptEvents(): Added event Init to zone guildmaster_island!
+
+[2023/07/30 21:35:24.187] Zone.LoadScriptEvents(): Added event EnterSegment to zone guildmaster_island!
+
+[2023/07/30 21:35:24.19] Zone.LoadScriptEvents(): Added event ExitSegment to zone guildmaster_island!
+
+[2023/07/30 21:35:24.19] Zone.LoadScriptEvents(): Added event Rescued to zone guildmaster_island!
+
+[2023/07/30 21:35:24.19] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 21:35:24.191] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 21:35:24.191] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 21:35:24.191] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 21:35:24.192] [SE]:=>> Init_guildmaster_island
+
+[2023/07/30 21:35:24.193] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 21:35:24.199] GroundMap.LoadScriptEvents(): Added event Init to map base_camp!
+
+[2023/07/30 21:35:24.199] GroundMap.LoadScriptEvents(): Added event Enter to map base_camp!
+
+[2023/07/30 21:35:24.199] GroundEntity.ReloadEvents(): Added event Action to entity Noctowl!
+
+[2023/07/30 21:35:24.2] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Entrance!
+
+[2023/07/30 21:35:24.2] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Range!
+
+[2023/07/30 21:35:24.2] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Coast!
+
+[2023/07/30 21:35:24.2] GroundEntity.ReloadEvents(): Added event Touch to entity North_Exit!
+
+[2023/07/30 21:35:24.201] GroundEntity.ReloadEvents(): Added event Touch to entity First_North_Exit!
+
+[2023/07/30 21:35:24.201] GroundEntity.ReloadEvents(): Added event Touch to entity East_Exit!
+
+[2023/07/30 21:35:24.201] GroundEntity.ReloadEvents(): Added event Touch to entity West_Exit!
+
+[2023/07/30 21:35:24.202] GroundEntity.ReloadEvents(): Added event Action to entity Sign!
+
+[2023/07/30 21:35:24.202] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 21:35:24.202] GroundEntity.ReloadEvents(): Added event Action to entity Storage!
+
+[2023/07/30 21:35:24.203] GroundEntity.ReloadEvents(): Added event Action to entity Ferry!
+
+[2023/07/30 21:35:24.203] [SE]:=>> Init_base_camp
+
+[2023/07/30 21:35:24.203] [SE]:AutoLoading Strings!..
+
+[2023/07/30 21:35:24.21] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 21:35:24.21] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 21:35:24.211] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 21:35:24.211] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 21:35:24.211] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 21:35:24.212] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 21:35:24.924] LuaEngine.OnMusicChange()..
+
+[2023/07/30 21:35:53.141] [SE]:LuaEngine.RunString(): Error executing string:
+A .NET exception occured in user-code
+Content:
+GAME:GetPlayerAssemblyMember(1)
+
+[2023/07/30 21:36:02.656] [SE]:LuaEngine.RunString(): Error executing string:
+[string "chunk"]:1: syntax error near <eof>
+Content:
+help
+
+[2023/07/30 21:36:30.57] =========================================
+
+[2023/07/30 21:36:30.573] SESSION STARTED: 2023/07/30 21:36:30
+
+[2023/07/30 21:36:30.573] Version: 0.7.14.0
+
+[2023/07/30 21:36:30.573] .NET 6.0.20
+
+[2023/07/30 21:36:30.573] =========================================
+
+[2023/07/30 21:36:32.45] FNA3D Driver: D3D11
+
+[2023/07/30 21:36:32.452] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 21:36:32.554] FNA3D Driver: D3D11
+
+[2023/07/30 21:36:32.554] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 21:36:32.581] [SE]:Initialized Lua 5.3
+
+[2023/07/30 21:36:32.582] [SE]:Importing .NET packages..
+
+[2023/07/30 21:36:32.587] [SE]:Exposing game engine components instances..
+
+[2023/07/30 21:36:32.592] [SE]:Exposing script interface..
+
+[2023/07/30 21:36:32.595] [SE]:Setting up lua globals..
+
+[2023/07/30 21:36:32.596] [SE]:Setting up lua paths..
+
+[2023/07/30 21:36:32.601] [SE]:Caching scripts..
+
+[2023/07/30 21:36:32.617] [SE]:Installing game interface functions..
+
+[2023/07/30 21:36:32.619] [SE]:Running main.lua script..
+
+[2023/07/30 21:36:32.623] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 21:36:32.627] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 21:36:32.627] [SE]:DebugTools:initialize()
+
+[2023/07/30 21:36:32.628] [SE]:Registered service DebugTools!
+
+[2023/07/30 21:36:32.629] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 21:36:32.629] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 21:36:32.629] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 21:36:34.025] [SE]:ChatterEngine:OnInit()
+
+[2023/07/30 21:36:34.025] [SE]:
+<!> ExampleSvc: Init..
+
+[2023/07/30 21:36:34.028] LuaEngine.LoadSavedData()..
+
+[2023/07/30 21:36:34.031] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 21:36:34.032] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 21:36:34.033] [SE]:Initialized Lua 5.3
+
+[2023/07/30 21:36:34.033] [SE]:Importing .NET packages..
+
+[2023/07/30 21:36:34.033] [SE]:Exposing game engine components instances..
+
+[2023/07/30 21:36:34.041] [SE]:Exposing script interface..
+
+[2023/07/30 21:36:34.042] [SE]:Setting up lua globals..
+
+[2023/07/30 21:36:34.042] [SE]:Setting up lua paths..
+
+[2023/07/30 21:36:34.043] [SE]:Caching scripts..
+
+[2023/07/30 21:36:34.051] [SE]:Installing game interface functions..
+
+[2023/07/30 21:36:34.052] [SE]:Running main.lua script..
+
+[2023/07/30 21:36:34.053] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 21:36:34.054] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 21:36:34.054] [SE]:DebugTools:initialize()
+
+[2023/07/30 21:36:34.055] [SE]:Registered service DebugTools!
+
+[2023/07/30 21:36:34.055] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 21:36:34.056] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 21:36:34.056] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 21:36:34.056] [SE]:Re-initializing scripts!
+
+[2023/07/30 21:36:34.057] [SE]:Loading last serialized script variables!
+
+[2023/07/30 21:36:34.224] LuaEngine.OnMusicChange()..
+
+[2023/07/30 21:36:36.155] [SE]:LuaEngine.RunString(): Error executing string:
+[string "chunk"]:1: attempt to index a nil value (global 'System')
+Content:
+GAME:GetPlayerAssemblyMember(System.Int32)
+
+[2023/07/30 21:36:46.788] [SE]:LuaEngine.RunString(): Error executing string:
+A .NET exception occured in user-code
+Content:
+GAME:GetPlayerAssemblyMember(0)
+
+[2023/07/30 21:36:56.005] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 21:36:56.006] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 21:36:56.007] [SE]:Initialized Lua 5.3
+
+[2023/07/30 21:36:56.008] [SE]:Importing .NET packages..
+
+[2023/07/30 21:36:56.008] [SE]:Exposing game engine components instances..
+
+[2023/07/30 21:36:56.012] [SE]:Exposing script interface..
+
+[2023/07/30 21:36:56.013] [SE]:Setting up lua globals..
+
+[2023/07/30 21:36:56.013] [SE]:Setting up lua paths..
+
+[2023/07/30 21:36:56.014] [SE]:Caching scripts..
+
+[2023/07/30 21:36:56.023] [SE]:Installing game interface functions..
+
+[2023/07/30 21:36:56.023] [SE]:Running main.lua script..
+
+[2023/07/30 21:36:56.025] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 21:36:56.025] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 21:36:56.026] [SE]:DebugTools:initialize()
+
+[2023/07/30 21:36:56.026] [SE]:Registered service DebugTools!
+
+[2023/07/30 21:36:56.027] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 21:36:56.027] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 21:36:56.027] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 21:36:56.027] [SE]:Re-initializing scripts!
+
+[2023/07/30 21:36:56.028] [SE]:Loading last serialized script variables!
+
+[2023/07/30 21:54:34.407] [SE]:LuaEngine.RunString(): Error executing string:
+...f\3D Objects\pmd-reflected-hearts/Data/Script/common.lua:329: attempt to index a nil value (field 'CurrentGround')
+Content:
+COMMON.JoinTeamWithFanfare(Squirtle, False)
+
+[2023/07/30 21:54:47.328] LuaEngine.LoadSavedData()..
+
+[2023/07/30 21:54:47.336] [SE]:
+<!> ExampleSvc: Preparing debug save file
+
+[2023/07/30 21:54:47.418] Zone Seed: 15892303737786454196
+
+[2023/07/30 21:54:47.502] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 21:54:47.504] Zone.LoadScriptEvents(): Added event Init to zone guildmaster_island!
+
+[2023/07/30 21:54:47.506] Zone.LoadScriptEvents(): Added event EnterSegment to zone guildmaster_island!
+
+[2023/07/30 21:54:47.506] Zone.LoadScriptEvents(): Added event ExitSegment to zone guildmaster_island!
+
+[2023/07/30 21:54:47.506] Zone.LoadScriptEvents(): Added event Rescued to zone guildmaster_island!
+
+[2023/07/30 21:54:47.507] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 21:54:47.508] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 21:54:47.508] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 21:54:47.508] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 21:54:47.511] [SE]:=>> Init_guildmaster_island
+
+[2023/07/30 21:54:47.514] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 21:54:47.516] GroundMap.LoadScriptEvents(): Added event Init to map base_camp!
+
+[2023/07/30 21:54:47.518] GroundMap.LoadScriptEvents(): Added event Enter to map base_camp!
+
+[2023/07/30 21:54:47.522] GroundEntity.ReloadEvents(): Added event Action to entity Noctowl!
+
+[2023/07/30 21:54:47.523] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Entrance!
+
+[2023/07/30 21:54:47.524] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Range!
+
+[2023/07/30 21:54:47.524] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Coast!
+
+[2023/07/30 21:54:47.524] GroundEntity.ReloadEvents(): Added event Touch to entity North_Exit!
+
+[2023/07/30 21:54:47.525] GroundEntity.ReloadEvents(): Added event Touch to entity First_North_Exit!
+
+[2023/07/30 21:54:47.525] GroundEntity.ReloadEvents(): Added event Touch to entity East_Exit!
+
+[2023/07/30 21:54:47.525] GroundEntity.ReloadEvents(): Added event Touch to entity West_Exit!
+
+[2023/07/30 21:54:47.525] GroundEntity.ReloadEvents(): Added event Action to entity Sign!
+
+[2023/07/30 21:54:47.526] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 21:54:47.526] GroundEntity.ReloadEvents(): Added event Action to entity Storage!
+
+[2023/07/30 21:54:47.527] GroundEntity.ReloadEvents(): Added event Action to entity Ferry!
+
+[2023/07/30 21:54:47.528] [SE]:=>> Init_base_camp
+
+[2023/07/30 21:54:47.528] [SE]:AutoLoading Strings!..
+
+[2023/07/30 21:54:47.533] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 21:54:47.533] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 21:54:47.534] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 21:54:47.534] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 21:54:47.535] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 21:54:47.546] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 21:55:14.122] [SE]:LuaEngine.RunString(): Error executing string:
+...f\3D Objects\pmd-reflected-hearts/Data/Script/common.lua:329: attempt to index a nil value (local 'recruit')
+Content:
+COMMON.JoinTeamWithFanfare(Squirtle, False)
+
+[2023/07/30 21:56:00.522] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 21:56:00.524] GroundMap.~GroundMap(): Finalizing base_camp..
+
+[2023/07/30 21:56:00.524] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 21:56:00.524] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 21:56:00.525] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Noctowl_Action!
+
+[2023/07/30 21:56:00.526] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Entrance_Action!
+
+[2023/07/30 21:56:00.526] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Range_Action!
+
+[2023/07/30 21:56:00.526] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Coast_Action!
+
+[2023/07/30 21:56:00.527] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Teammate1_Action!
+
+[2023/07/30 21:56:00.527] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Teammate2_Action!
+
+[2023/07/30 21:56:00.527] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.North_Exit_Touch!
+
+[2023/07/30 21:56:00.528] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.First_North_Exit_Touch!
+
+[2023/07/30 21:56:00.528] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.East_Exit_Touch!
+
+[2023/07/30 21:56:00.528] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.West_Exit_Touch!
+
+[2023/07/30 21:56:00.528] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Sign_Action!
+
+[2023/07/30 21:56:00.529] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Assembly_Action!
+
+[2023/07/30 21:56:00.529] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Storage_Action!
+
+[2023/07/30 21:56:00.529] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Ferry_Action!
+
+[2023/07/30 21:56:00.531] Zone.~Zone(): Finalizing guildmaster_island..
+
+[2023/07/30 21:56:00.533] Zone Seed: 5898841240175439049
+
+[2023/07/30 21:56:00.569] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 21:56:00.569] Zone.LoadScriptEvents(): Added event Init to zone guildmaster_island!
+
+[2023/07/30 21:56:00.57] Zone.LoadScriptEvents(): Added event EnterSegment to zone guildmaster_island!
+
+[2023/07/30 21:56:00.57] Zone.LoadScriptEvents(): Added event ExitSegment to zone guildmaster_island!
+
+[2023/07/30 21:56:00.57] Zone.LoadScriptEvents(): Added event Rescued to zone guildmaster_island!
+
+[2023/07/30 21:56:00.571] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 21:56:00.571] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 21:56:00.571] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 21:56:00.572] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 21:56:00.572] [SE]:=>> Init_guildmaster_island
+
+[2023/07/30 21:56:00.572] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 21:56:00.573] GroundMap.LoadScriptEvents(): Added event Init to map base_camp!
+
+[2023/07/30 21:56:00.573] GroundMap.LoadScriptEvents(): Added event Enter to map base_camp!
+
+[2023/07/30 21:56:00.574] GroundEntity.ReloadEvents(): Added event Action to entity Noctowl!
+
+[2023/07/30 21:56:00.574] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Entrance!
+
+[2023/07/30 21:56:00.574] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Range!
+
+[2023/07/30 21:56:00.575] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Coast!
+
+[2023/07/30 21:56:00.575] GroundEntity.ReloadEvents(): Added event Touch to entity North_Exit!
+
+[2023/07/30 21:56:00.575] GroundEntity.ReloadEvents(): Added event Touch to entity First_North_Exit!
+
+[2023/07/30 21:56:00.575] GroundEntity.ReloadEvents(): Added event Touch to entity East_Exit!
+
+[2023/07/30 21:56:00.576] GroundEntity.ReloadEvents(): Added event Touch to entity West_Exit!
+
+[2023/07/30 21:56:00.576] GroundEntity.ReloadEvents(): Added event Action to entity Sign!
+
+[2023/07/30 21:56:00.576] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 21:56:00.577] GroundEntity.ReloadEvents(): Added event Action to entity Storage!
+
+[2023/07/30 21:56:00.577] GroundEntity.ReloadEvents(): Added event Action to entity Ferry!
+
+[2023/07/30 21:56:00.577] [SE]:=>> Init_base_camp
+
+[2023/07/30 21:56:00.578] [SE]:AutoLoading Strings!..
+
+[2023/07/30 21:56:00.578] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 21:56:00.579] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 21:56:00.58] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 21:56:00.58] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 21:56:00.58] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 21:56:00.581] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 21:57:29.221] [SE]:LuaEngine.RunString(): Error executing string:
+[string "chunk"]:1: function arguments expected near <eof>
+Content:
+GAME:GetPlayerPartyTable
+
+[2023/07/30 21:58:07.021] [SE]:LuaEngine.RunString(): Error executing string:
+...f\3D Objects\pmd-reflected-hearts/Data/Script/common.lua:48: attempt to concatenate a table value (local 'text')
+Content:
+PrintInfo(GAME:GetPlayerPartyTable())
+
+[2023/07/30 21:58:26.388] [SE]:LuaEngine.RunString(): Error executing string:
+...f\3D Objects\pmd-reflected-hearts/Data/Script/common.lua:48: attempt to concatenate a RogueEssence.Dungeon.Character, RogueEssence, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null value (local 'text')
+Content:
+PrintInfo(GAME:GetPlayerPartyTable()[1])
+
+[2023/07/30 21:58:30.039] The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+Exception Depth: 0
+System.IO.IOException: The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at RogueEssence.Dev.Views.DevForm.saveConfig()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:00:53.928] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 22:00:53.928] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 22:00:53.93] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:00:53.93] [SE]:Importing .NET packages..
+
+[2023/07/30 22:00:53.931] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:00:53.935] [SE]:Exposing script interface..
+
+[2023/07/30 22:00:53.935] [SE]:Setting up lua globals..
+
+[2023/07/30 22:00:53.936] [SE]:Setting up lua paths..
+
+[2023/07/30 22:00:53.937] [SE]:Caching scripts..
+
+[2023/07/30 22:00:53.946] [SE]:Installing game interface functions..
+
+[2023/07/30 22:00:53.946] [SE]:Running main.lua script..
+
+[2023/07/30 22:00:53.948] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:00:53.948] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:00:53.949] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:00:53.949] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:00:53.95] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:00:53.951] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:00:53.951] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:00:53.951] [SE]:Re-initializing scripts!
+
+[2023/07/30 22:00:53.952] [SE]:Loading last serialized script variables!
+
+[2023/07/30 22:00:53.952] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:00:53.956] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:00:53.957] Zone.LoadScriptEvents(): Added event Init to zone guildmaster_island!
+
+[2023/07/30 22:00:53.957] Zone.LoadScriptEvents(): Added event EnterSegment to zone guildmaster_island!
+
+[2023/07/30 22:00:53.958] Zone.LoadScriptEvents(): Added event ExitSegment to zone guildmaster_island!
+
+[2023/07/30 22:00:53.958] Zone.LoadScriptEvents(): Added event Rescued to zone guildmaster_island!
+
+[2023/07/30 22:00:53.958] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 22:00:53.959] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 22:00:53.959] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 22:00:53.959] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 22:00:53.96] [SE]:=>> Init_guildmaster_island
+
+[2023/07/30 22:00:53.96] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 22:00:53.962] GroundMap.LoadScriptEvents(): Added event Init to map base_camp!
+
+[2023/07/30 22:00:53.962] GroundMap.LoadScriptEvents(): Added event Enter to map base_camp!
+
+[2023/07/30 22:00:53.962] GroundEntity.ReloadEvents(): Added event Action to entity Noctowl!
+
+[2023/07/30 22:00:53.962] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Entrance!
+
+[2023/07/30 22:00:53.963] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Range!
+
+[2023/07/30 22:00:53.963] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Coast!
+
+[2023/07/30 22:00:53.963] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 22:00:53.964] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 22:00:53.964] GroundEntity.ReloadEvents(): Added event Touch to entity North_Exit!
+
+[2023/07/30 22:00:53.964] GroundEntity.ReloadEvents(): Added event Touch to entity First_North_Exit!
+
+[2023/07/30 22:00:53.965] GroundEntity.ReloadEvents(): Added event Touch to entity East_Exit!
+
+[2023/07/30 22:00:53.966] GroundEntity.ReloadEvents(): Added event Touch to entity West_Exit!
+
+[2023/07/30 22:00:53.966] GroundEntity.ReloadEvents(): Added event Action to entity Sign!
+
+[2023/07/30 22:00:53.967] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 22:00:53.967] GroundEntity.ReloadEvents(): Added event Action to entity Storage!
+
+[2023/07/30 22:00:53.967] GroundEntity.ReloadEvents(): Added event Action to entity Ferry!
+
+[2023/07/30 22:00:53.968] [SE]:=>> Init_base_camp
+
+[2023/07/30 22:00:53.968] [SE]:AutoLoading Strings!..
+
+[2023/07/30 22:00:53.969] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 22:00:53.969] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 22:00:53.97] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 22:00:53.97] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 22:00:53.97] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 22:01:07.772] [SE]:Help
+
+[2023/07/30 22:01:40.058] [SE]:LuaEngine.RunString(): Error executing string:
+[string "chunk"]:1: attempt to call a nil value (field 'toString')
+Content:
+PrintInfo(GAME:GetPlayerPartyTable()[1].toString())
+
+[2023/07/30 22:07:07.006] [SE]:LuaEngine.RunString(): Error executing string:
+[string "chunk"]:1: syntax error near <eof>
+Content:
+RogueEssence.Dungeon.Character.getSpecies
+
+[2023/07/30 22:07:17.206] [SE]:LuaEngine.RunString(): Error executing string:
+Unknown member name getSpecies
+Content:
+RogueEssence.Dungeon.Character.getSpecies()
+
+[2023/07/30 22:07:19.79] The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+Exception Depth: 0
+System.IO.IOException: The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at RogueEssence.Dev.Views.DevForm.saveConfig()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:07:31.823] [SE]:LuaEngine.RunString(): Error executing string:
+[string "chunk"]:1: syntax error near <eof>
+Content:
+RogueEssence.Dungeon.Character.getSpecies
+
+[2023/07/30 22:07:46.123] [SE]:LuaEngine.RunString(): Error executing string:
+[string "chunk"]:1: syntax error near <eof>
+Content:
+RogueEssence.Dungeon.Character.Species
+
+[2023/07/30 22:07:56.356] [SE]:LuaEngine.RunString(): Error executing string:
+Unknown member name Species
+Content:
+RogueEssence.Dungeon.Character.Species("zubat")
+
+[2023/07/30 22:15:49.357] The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+Exception Depth: 0
+System.IO.IOException: The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at RogueEssence.Dev.Views.DevForm.saveConfig()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:15:52.007] The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+Exception Depth: 0
+System.IO.IOException: The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at RogueEssence.Dev.Views.DevForm.saveConfig()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:18:23.357] The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+Exception Depth: 0
+System.IO.IOException: The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at RogueEssence.Dev.Views.DevForm.saveConfig()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:18:52.302] [SE]:NLua.Exceptions.LuaScriptException: [string "?"]:1: exception indexing '13' Exception has been thrown by the target of an invocation.: 22686540
+stack traceback:
+	[C]: in global 'get_object_member'
+	[string "?"]:1: in metamethod '__index'
+	...f\3D Objects\pmd-reflected-hearts/Data/Script/common.lua:177: in field 'ShowDestinationMenu'
+	...d-reflected-hearts/Data/Script/ground\base_camp/init.lua:216: in function 'ground.base_camp.North_Exit_Touch'
+	[C]: in function 'xpcall'
+	[string "MakeCoroutineIterator"]:3: in function <[string "MakeCoroutineIterator"]:3>
+
+[2023/07/30 22:18:54.037] [SE]:NLua.Exceptions.LuaScriptException: [string "?"]:1: exception indexing '13' Exception has been thrown by the target of an invocation.: 66041155
+stack traceback:
+	[C]: in global 'get_object_member'
+	[string "?"]:1: in metamethod '__index'
+	...f\3D Objects\pmd-reflected-hearts/Data/Script/common.lua:177: in field 'ShowDestinationMenu'
+	...d-reflected-hearts/Data/Script/ground\base_camp/init.lua:216: in function 'ground.base_camp.North_Exit_Touch'
+	[C]: in function 'xpcall'
+	[string "MakeCoroutineIterator"]:3: in function <[string "MakeCoroutineIterator"]:3>
+
+[2023/07/30 22:18:56.231] =========================================
+
+[2023/07/30 22:18:56.233] SESSION STARTED: 2023/07/30 22:18:56
+
+[2023/07/30 22:18:56.234] Version: 0.7.14.0
+
+[2023/07/30 22:18:56.234] .NET 6.0.20
+
+[2023/07/30 22:18:56.234] =========================================
+
+[2023/07/30 22:18:58.1] FNA3D Driver: D3D11
+
+[2023/07/30 22:18:58.102] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 22:18:58.214] FNA3D Driver: D3D11
+
+[2023/07/30 22:18:58.214] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 22:18:58.242] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:18:58.243] [SE]:Importing .NET packages..
+
+[2023/07/30 22:18:58.248] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:18:58.253] [SE]:Exposing script interface..
+
+[2023/07/30 22:18:58.256] [SE]:Setting up lua globals..
+
+[2023/07/30 22:18:58.257] [SE]:Setting up lua paths..
+
+[2023/07/30 22:18:58.262] [SE]:Caching scripts..
+
+[2023/07/30 22:18:58.278] [SE]:Installing game interface functions..
+
+[2023/07/30 22:18:58.28] [SE]:Running main.lua script..
+
+[2023/07/30 22:18:58.284] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:18:58.288] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:18:58.288] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:18:58.289] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:18:58.289] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:18:58.29] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:18:58.29] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:18:59.684] [SE]:ChatterEngine:OnInit()
+
+[2023/07/30 22:18:59.685] [SE]:
+<!> ExampleSvc: Init..
+
+[2023/07/30 22:18:59.688] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:18:59.692] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 22:18:59.692] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 22:18:59.694] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:18:59.695] [SE]:Importing .NET packages..
+
+[2023/07/30 22:18:59.696] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:18:59.705] [SE]:Exposing script interface..
+
+[2023/07/30 22:18:59.707] [SE]:Setting up lua globals..
+
+[2023/07/30 22:18:59.707] [SE]:Setting up lua paths..
+
+[2023/07/30 22:18:59.708] [SE]:Caching scripts..
+
+[2023/07/30 22:18:59.719] [SE]:Installing game interface functions..
+
+[2023/07/30 22:18:59.72] [SE]:Running main.lua script..
+
+[2023/07/30 22:18:59.721] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:18:59.722] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:18:59.722] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:18:59.723] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:18:59.723] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:18:59.724] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:18:59.724] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:18:59.725] [SE]:Re-initializing scripts!
+
+[2023/07/30 22:18:59.725] [SE]:Loading last serialized script variables!
+
+[2023/07/30 22:19:01.995] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:19:07.597] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:19:07.605] [SE]:
+<!> ExampleSvc: Preparing debug save file
+
+[2023/07/30 22:19:07.795] Zone Seed: 6165695938329056954
+
+[2023/07/30 22:19:07.798] Zone Seed: 6165695938329056954
+
+[2023/07/30 22:19:07.805] Map Count: 0
+
+[2023/07/30 22:19:07.805] Map Seed: 0
+
+[2023/07/30 22:19:08.196] Steps:
+
+
+[2023/07/30 22:19:08.197] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:19:08.203] Zone.LoadScriptEvents(): Added event Init to zone ambush_forest!
+
+[2023/07/30 22:19:08.204] Zone.LoadScriptEvents(): Added event EnterSegment to zone ambush_forest!
+
+[2023/07/30 22:19:08.204] Zone.LoadScriptEvents(): Added event ExitSegment to zone ambush_forest!
+
+[2023/07/30 22:19:08.205] Zone.LoadScriptEvents(): Added event Rescued to zone ambush_forest!
+
+[2023/07/30 22:19:08.206] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 22:19:08.206] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 22:19:08.207] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 22:19:08.207] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 22:19:08.21] [SE]:=>> Init_ambush_forest
+
+[2023/07/30 22:19:08.261] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:19:08.264] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:19:08.274] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:19:09.026] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:19:43.825] [SE]:LuaEngine.RunString(): Error executing string:
+Invalid arguments to method: ExplorerTeam.CreatePlayer
+Content:
+_DATA.Save.ActiveTeam.Players:Add(_DATA.Save.ActiveTeam:CreatePlayer(_DATA.Save.Rand, mon_id, 50, "", 0))
+
+[2023/07/30 22:21:46.396] =========================================
+
+[2023/07/30 22:21:46.398] SESSION STARTED: 2023/07/30 22:21:46
+
+[2023/07/30 22:21:46.398] Version: 0.7.14.0
+
+[2023/07/30 22:21:46.399] .NET 6.0.20
+
+[2023/07/30 22:21:46.399] =========================================
+
+[2023/07/30 22:21:48.313] FNA3D Driver: D3D11
+
+[2023/07/30 22:21:48.315] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 22:21:48.426] FNA3D Driver: D3D11
+
+[2023/07/30 22:21:48.426] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 22:21:48.454] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:21:48.454] [SE]:Importing .NET packages..
+
+[2023/07/30 22:21:48.459] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:21:48.465] [SE]:Exposing script interface..
+
+[2023/07/30 22:21:48.468] [SE]:Setting up lua globals..
+
+[2023/07/30 22:21:48.469] [SE]:Setting up lua paths..
+
+[2023/07/30 22:21:48.474] [SE]:Caching scripts..
+
+[2023/07/30 22:21:48.49] [SE]:Installing game interface functions..
+
+[2023/07/30 22:21:48.492] [SE]:Running main.lua script..
+
+[2023/07/30 22:21:48.496] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:21:48.5] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:21:48.505] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:21:48.505] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:21:48.506] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:21:48.506] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:21:48.506] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:21:49.908] [SE]:ChatterEngine:OnInit()
+
+[2023/07/30 22:21:49.908] [SE]:
+<!> ExampleSvc: Init..
+
+[2023/07/30 22:21:49.911] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:21:49.914] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 22:21:49.915] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 22:21:49.916] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:21:49.916] [SE]:Importing .NET packages..
+
+[2023/07/30 22:21:49.917] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:21:49.928] [SE]:Exposing script interface..
+
+[2023/07/30 22:21:49.929] [SE]:Setting up lua globals..
+
+[2023/07/30 22:21:49.929] [SE]:Setting up lua paths..
+
+[2023/07/30 22:21:49.93] [SE]:Caching scripts..
+
+[2023/07/30 22:21:49.939] [SE]:Installing game interface functions..
+
+[2023/07/30 22:21:49.94] [SE]:Running main.lua script..
+
+[2023/07/30 22:21:49.942] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:21:49.942] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:21:49.943] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:21:49.943] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:21:49.944] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:21:49.944] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:21:49.944] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:21:49.945] [SE]:Re-initializing scripts!
+
+[2023/07/30 22:21:49.945] [SE]:Loading last serialized script variables!
+
+[2023/07/30 22:21:50.922] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:21:54.669] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:21:54.676] [SE]:
+<!> ExampleSvc: Preparing debug save file
+
+[2023/07/30 22:21:54.913] Zone Seed: 8552616734211363658
+
+[2023/07/30 22:21:54.917] Zone Seed: 8552616734211363658
+
+[2023/07/30 22:21:54.923] Map Count: 0
+
+[2023/07/30 22:21:54.924] Map Seed: 0
+
+[2023/07/30 22:21:55.184] Steps:
+
+
+[2023/07/30 22:21:55.185] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:21:55.187] Zone.LoadScriptEvents(): Added event Init to zone ambush_forest!
+
+[2023/07/30 22:21:55.189] Zone.LoadScriptEvents(): Added event EnterSegment to zone ambush_forest!
+
+[2023/07/30 22:21:55.189] Zone.LoadScriptEvents(): Added event ExitSegment to zone ambush_forest!
+
+[2023/07/30 22:21:55.189] Zone.LoadScriptEvents(): Added event Rescued to zone ambush_forest!
+
+[2023/07/30 22:21:55.191] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 22:21:55.191] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 22:21:55.191] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 22:21:55.192] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 22:21:55.194] [SE]:=>> Init_ambush_forest
+
+[2023/07/30 22:21:55.227] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:21:55.229] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:21:55.241] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:21:55.976] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:22:07.562] The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+Exception Depth: 0
+System.IO.IOException: The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at RogueEssence.Dev.Views.DevForm.saveConfig()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:22:29.08] Zone Seed: 8552616734211363658
+
+[2023/07/30 22:22:29.08] Map Count: 0
+
+[2023/07/30 22:22:29.081] Map Seed: 0
+
+[2023/07/30 22:22:29.104] Steps:
+
+
+[2023/07/30 22:22:29.104] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:22:29.105] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:22:29.105] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:23:06.143] LuaEngine.OnMenuButtonPressed()...
+
+[2023/07/30 22:23:23.842] LuaEngine.OnMenuButtonPressed()...
+
+[2023/07/30 22:23:28.209] [SE]:=>> ExitSegment_ambush_forest result GaveUp: 5 segment 0
+
+[2023/07/30 22:23:28.542] Zone.~Zone(): Finalizing ambush_forest..
+
+[2023/07/30 22:23:28.545] Zone Seed: 8552616733374449061
+
+[2023/07/30 22:23:28.604] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:23:28.605] Zone.LoadScriptEvents(): Added event Init to zone guildmaster_island!
+
+[2023/07/30 22:23:28.605] Zone.LoadScriptEvents(): Added event EnterSegment to zone guildmaster_island!
+
+[2023/07/30 22:23:28.606] Zone.LoadScriptEvents(): Added event ExitSegment to zone guildmaster_island!
+
+[2023/07/30 22:23:28.606] Zone.LoadScriptEvents(): Added event Rescued to zone guildmaster_island!
+
+[2023/07/30 22:23:28.606] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 22:23:28.607] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 22:23:28.607] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 22:23:28.607] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 22:23:28.608] [SE]:=>> Init_guildmaster_island
+
+[2023/07/30 22:23:28.611] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 22:23:28.613] GroundMap.LoadScriptEvents(): Added event Init to map base_camp!
+
+[2023/07/30 22:23:28.614] GroundMap.LoadScriptEvents(): Added event Enter to map base_camp!
+
+[2023/07/30 22:23:28.618] GroundEntity.ReloadEvents(): Added event Action to entity Noctowl!
+
+[2023/07/30 22:23:28.62] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Entrance!
+
+[2023/07/30 22:23:28.62] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Range!
+
+[2023/07/30 22:23:28.62] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Coast!
+
+[2023/07/30 22:23:28.621] GroundEntity.ReloadEvents(): Added event Touch to entity North_Exit!
+
+[2023/07/30 22:23:28.621] GroundEntity.ReloadEvents(): Added event Touch to entity First_North_Exit!
+
+[2023/07/30 22:23:28.621] GroundEntity.ReloadEvents(): Added event Touch to entity East_Exit!
+
+[2023/07/30 22:23:28.622] GroundEntity.ReloadEvents(): Added event Touch to entity West_Exit!
+
+[2023/07/30 22:23:28.622] GroundEntity.ReloadEvents(): Added event Action to entity Sign!
+
+[2023/07/30 22:23:28.622] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 22:23:28.622] GroundEntity.ReloadEvents(): Added event Action to entity Storage!
+
+[2023/07/30 22:23:28.623] GroundEntity.ReloadEvents(): Added event Action to entity Ferry!
+
+[2023/07/30 22:23:28.624] [SE]:=>> Init_base_camp
+
+[2023/07/30 22:23:28.625] [SE]:AutoLoading Strings!..
+
+[2023/07/30 22:23:28.629] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 22:23:28.629] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 22:23:28.63] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 22:23:28.631] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 22:23:28.631] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 22:23:28.635] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:23:28.994] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 22:23:29.161] LuaEngine.OnMenuButtonPressed()...
+
+[2023/07/30 22:23:54.745] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 22:23:54.746] GroundMap.~GroundMap(): Finalizing base_camp..
+
+[2023/07/30 22:23:54.747] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 22:23:54.747] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 22:23:54.748] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Noctowl_Action!
+
+[2023/07/30 22:23:54.748] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Entrance_Action!
+
+[2023/07/30 22:23:54.749] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Range_Action!
+
+[2023/07/30 22:23:54.749] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Coast_Action!
+
+[2023/07/30 22:23:54.749] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Teammate1_Action!
+
+[2023/07/30 22:23:54.75] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Teammate2_Action!
+
+[2023/07/30 22:23:54.75] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.North_Exit_Touch!
+
+[2023/07/30 22:23:54.75] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.First_North_Exit_Touch!
+
+[2023/07/30 22:23:54.751] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.East_Exit_Touch!
+
+[2023/07/30 22:23:54.751] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.West_Exit_Touch!
+
+[2023/07/30 22:23:54.751] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Sign_Action!
+
+[2023/07/30 22:23:54.752] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Assembly_Action!
+
+[2023/07/30 22:23:54.752] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Storage_Action!
+
+[2023/07/30 22:23:54.752] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Ferry_Action!
+
+[2023/07/30 22:23:54.852] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 22:23:54.859] GroundMap.LoadScriptEvents(): Added event Init to map base_camp_2!
+
+[2023/07/30 22:23:54.859] GroundMap.LoadScriptEvents(): Added event Enter to map base_camp_2!
+
+[2023/07/30 22:23:54.86] GroundMap.LoadScriptEvents(): Added event Update to map base_camp_2!
+
+[2023/07/30 22:23:54.86] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Elder!
+
+[2023/07/30 22:23:54.86] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Catch_2!
+
+[2023/07/30 22:23:54.861] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Food!
+
+[2023/07/30 22:23:54.861] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Mother!
+
+[2023/07/30 22:23:54.861] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Father!
+
+[2023/07/30 22:23:54.862] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Catch_1!
+
+[2023/07/30 22:23:54.862] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Nonbeliever!
+
+[2023/07/30 22:23:54.862] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Treasure!
+
+[2023/07/30 22:23:54.862] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Broke!
+
+[2023/07/30 22:23:54.863] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Hesitant!
+
+[2023/07/30 22:23:54.863] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Settling!
+
+[2023/07/30 22:23:54.863] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Interactive!
+
+[2023/07/30 22:23:54.864] GroundEntity.ReloadEvents(): Added event Action to entity NPC_History!
+
+[2023/07/30 22:23:54.865] GroundEntity.ReloadEvents(): Added event Touch to entity West_Exit!
+
+[2023/07/30 22:23:54.865] GroundEntity.ReloadEvents(): Added event Touch to entity North_Exit!
+
+[2023/07/30 22:23:54.865] GroundEntity.ReloadEvents(): Added event Action to entity Mission_Board!
+
+[2023/07/30 22:23:54.866] GroundEntity.ReloadEvents(): Added event Action to entity Shop!
+
+[2023/07/30 22:23:54.866] GroundEntity.ReloadEvents(): Added event Action to entity Appraisal!
+
+[2023/07/30 22:23:54.866] GroundEntity.ReloadEvents(): Added event Action to entity Swap!
+
+[2023/07/30 22:23:54.867] GroundEntity.ReloadEvents(): Added event Action to entity Tutor!
+
+[2023/07/30 22:23:54.867] GroundEntity.ReloadEvents(): Added event Action to entity Locator!
+
+[2023/07/30 22:23:54.867] GroundEntity.ReloadEvents(): Added event Action to entity Juice!
+
+[2023/07/30 22:23:54.868] GroundEntity.ReloadEvents(): Added event Action to entity Music!
+
+[2023/07/30 22:23:54.868] GroundEntity.ReloadEvents(): Added event Touch to entity Post_Office_Entrance!
+
+[2023/07/30 22:23:54.868] [SE]:=>> Init_base_camp_2
+
+[2023/07/30 22:23:54.869] [SE]:AutoLoading Strings!..
+
+[2023/07/30 22:23:54.885] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 22:23:55.442] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 22:23:55.76] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:24:42.794] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 22:24:42.794] GroundMap.~GroundMap(): Finalizing base_camp_2..
+
+[2023/07/30 22:24:42.795] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 22:24:42.795] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 22:24:42.796] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 22:24:42.796] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Elder_Action!
+
+[2023/07/30 22:24:42.796] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Catch_2_Action!
+
+[2023/07/30 22:24:42.797] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Food_Action!
+
+[2023/07/30 22:24:42.797] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Mother_Action!
+
+[2023/07/30 22:24:42.797] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Father_Action!
+
+[2023/07/30 22:24:42.798] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Catch_1_Action!
+
+[2023/07/30 22:24:42.798] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Nonbeliever_Action!
+
+[2023/07/30 22:24:42.798] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Treasure_Action!
+
+[2023/07/30 22:24:42.798] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Broke_Action!
+
+[2023/07/30 22:24:42.799] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Hesitant_Action!
+
+[2023/07/30 22:24:42.799] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Settling_Action!
+
+[2023/07/30 22:24:42.8] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Interactive_Action!
+
+[2023/07/30 22:24:42.8] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_History_Action!
+
+[2023/07/30 22:24:42.8] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.West_Exit_Touch!
+
+[2023/07/30 22:24:42.801] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.North_Exit_Touch!
+
+[2023/07/30 22:24:42.801] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Mission_Board_Action!
+
+[2023/07/30 22:24:42.801] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Shop_Action!
+
+[2023/07/30 22:24:42.801] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Appraisal_Action!
+
+[2023/07/30 22:24:42.802] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Swap_Action!
+
+[2023/07/30 22:24:42.802] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Tutor_Action!
+
+[2023/07/30 22:24:42.802] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Locator_Action!
+
+[2023/07/30 22:24:42.803] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Juice_Action!
+
+[2023/07/30 22:24:42.803] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Music_Action!
+
+[2023/07/30 22:24:42.803] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Post_Office_Entrance_Touch!
+
+[2023/07/30 22:24:42.82] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 22:24:42.826] GroundMap.LoadScriptEvents(): Added event Init to map post_office!
+
+[2023/07/30 22:24:42.826] GroundMap.LoadScriptEvents(): Added event Enter to map post_office!
+
+[2023/07/30 22:24:42.826] GroundMap.LoadScriptEvents(): Added event Update to map post_office!
+
+[2023/07/30 22:24:42.827] GroundEntity.ReloadEvents(): Added event Touch to entity South_Exit!
+
+[2023/07/30 22:24:42.827] GroundEntity.ReloadEvents(): Added event Action to entity Main_Desk!
+
+[2023/07/30 22:24:42.827] GroundEntity.ReloadEvents(): Added event Action to entity Side_Desk!
+
+[2023/07/30 22:24:42.828] [SE]:=>> Init_post_office
+
+[2023/07/30 22:24:42.828] [SE]:AutoLoading Strings!..
+
+[2023/07/30 22:24:42.833] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 22:24:43.161] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 22:24:43.894] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 22:24:43.894] GroundMap.~GroundMap(): Finalizing post_office..
+
+[2023/07/30 22:24:43.895] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 22:24:43.895] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 22:24:43.896] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 22:24:43.896] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.South_Exit_Touch!
+
+[2023/07/30 22:24:43.896] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Main_Desk_Action!
+
+[2023/07/30 22:24:43.896] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Side_Desk_Action!
+
+[2023/07/30 22:24:43.979] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 22:24:43.98] GroundMap.LoadScriptEvents(): Added event Init to map base_camp_2!
+
+[2023/07/30 22:24:43.981] GroundMap.LoadScriptEvents(): Added event Enter to map base_camp_2!
+
+[2023/07/30 22:24:43.981] GroundMap.LoadScriptEvents(): Added event Update to map base_camp_2!
+
+[2023/07/30 22:24:43.981] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Elder!
+
+[2023/07/30 22:24:43.982] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Catch_2!
+
+[2023/07/30 22:24:43.982] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Food!
+
+[2023/07/30 22:24:43.982] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Mother!
+
+[2023/07/30 22:24:43.983] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Father!
+
+[2023/07/30 22:24:43.983] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Catch_1!
+
+[2023/07/30 22:24:43.983] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Nonbeliever!
+
+[2023/07/30 22:24:43.984] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Treasure!
+
+[2023/07/30 22:24:43.984] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Broke!
+
+[2023/07/30 22:24:43.984] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Hesitant!
+
+[2023/07/30 22:24:43.985] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Settling!
+
+[2023/07/30 22:24:43.985] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Interactive!
+
+[2023/07/30 22:24:43.985] GroundEntity.ReloadEvents(): Added event Action to entity NPC_History!
+
+[2023/07/30 22:24:43.985] GroundEntity.ReloadEvents(): Added event Touch to entity West_Exit!
+
+[2023/07/30 22:24:43.986] GroundEntity.ReloadEvents(): Added event Touch to entity North_Exit!
+
+[2023/07/30 22:24:43.986] GroundEntity.ReloadEvents(): Added event Action to entity Mission_Board!
+
+[2023/07/30 22:24:43.986] GroundEntity.ReloadEvents(): Added event Action to entity Shop!
+
+[2023/07/30 22:24:43.987] GroundEntity.ReloadEvents(): Added event Action to entity Appraisal!
+
+[2023/07/30 22:24:43.987] GroundEntity.ReloadEvents(): Added event Action to entity Swap!
+
+[2023/07/30 22:24:43.987] GroundEntity.ReloadEvents(): Added event Action to entity Tutor!
+
+[2023/07/30 22:24:43.988] GroundEntity.ReloadEvents(): Added event Action to entity Locator!
+
+[2023/07/30 22:24:43.988] GroundEntity.ReloadEvents(): Added event Action to entity Juice!
+
+[2023/07/30 22:24:43.988] GroundEntity.ReloadEvents(): Added event Action to entity Music!
+
+[2023/07/30 22:24:43.99] GroundEntity.ReloadEvents(): Added event Touch to entity Post_Office_Entrance!
+
+[2023/07/30 22:24:43.99] [SE]:=>> Init_base_camp_2
+
+[2023/07/30 22:24:43.99] [SE]:AutoLoading Strings!..
+
+[2023/07/30 22:24:43.992] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 22:24:44.311] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 22:26:19.494] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 22:26:19.494] GroundMap.~GroundMap(): Finalizing base_camp_2..
+
+[2023/07/30 22:26:19.495] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 22:26:19.495] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 22:26:19.496] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 22:26:19.496] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Elder_Action!
+
+[2023/07/30 22:26:19.496] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Catch_2_Action!
+
+[2023/07/30 22:26:19.497] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Food_Action!
+
+[2023/07/30 22:26:19.497] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Mother_Action!
+
+[2023/07/30 22:26:19.497] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Father_Action!
+
+[2023/07/30 22:26:19.498] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Catch_1_Action!
+
+[2023/07/30 22:26:19.498] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Nonbeliever_Action!
+
+[2023/07/30 22:26:19.498] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Treasure_Action!
+
+[2023/07/30 22:26:19.499] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Broke_Action!
+
+[2023/07/30 22:26:19.499] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Hesitant_Action!
+
+[2023/07/30 22:26:19.499] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Settling_Action!
+
+[2023/07/30 22:26:19.499] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Interactive_Action!
+
+[2023/07/30 22:26:19.5] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_History_Action!
+
+[2023/07/30 22:26:19.5] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.West_Exit_Touch!
+
+[2023/07/30 22:26:19.5] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.North_Exit_Touch!
+
+[2023/07/30 22:26:19.501] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Mission_Board_Action!
+
+[2023/07/30 22:26:19.501] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Shop_Action!
+
+[2023/07/30 22:26:19.501] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Appraisal_Action!
+
+[2023/07/30 22:26:19.502] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Swap_Action!
+
+[2023/07/30 22:26:19.502] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Tutor_Action!
+
+[2023/07/30 22:26:19.502] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Locator_Action!
+
+[2023/07/30 22:26:19.502] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Juice_Action!
+
+[2023/07/30 22:26:19.503] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Music_Action!
+
+[2023/07/30 22:26:19.503] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Post_Office_Entrance_Touch!
+
+[2023/07/30 22:26:19.524] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 22:26:19.525] GroundMap.LoadScriptEvents(): Added event Init to map base_camp!
+
+[2023/07/30 22:26:19.525] GroundMap.LoadScriptEvents(): Added event Enter to map base_camp!
+
+[2023/07/30 22:26:19.526] GroundEntity.ReloadEvents(): Added event Action to entity Noctowl!
+
+[2023/07/30 22:26:19.527] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Entrance!
+
+[2023/07/30 22:26:19.527] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Range!
+
+[2023/07/30 22:26:19.527] GroundEntity.ReloadEvents(): Added event Action to entity NPC_Coast!
+
+[2023/07/30 22:26:19.528] GroundEntity.ReloadEvents(): Added event Touch to entity North_Exit!
+
+[2023/07/30 22:26:19.528] GroundEntity.ReloadEvents(): Added event Touch to entity First_North_Exit!
+
+[2023/07/30 22:26:19.528] GroundEntity.ReloadEvents(): Added event Touch to entity East_Exit!
+
+[2023/07/30 22:26:19.529] GroundEntity.ReloadEvents(): Added event Touch to entity West_Exit!
+
+[2023/07/30 22:26:19.529] GroundEntity.ReloadEvents(): Added event Action to entity Sign!
+
+[2023/07/30 22:26:19.529] GroundEntity.ReloadEvents(): Added event Action to entity Assembly!
+
+[2023/07/30 22:26:19.53] GroundEntity.ReloadEvents(): Added event Action to entity Storage!
+
+[2023/07/30 22:26:19.53] GroundEntity.ReloadEvents(): Added event Action to entity Ferry!
+
+[2023/07/30 22:26:19.53] [SE]:=>> Init_base_camp
+
+[2023/07/30 22:26:19.53] [SE]:AutoLoading Strings!..
+
+[2023/07/30 22:26:19.531] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 22:26:19.531] GroundEntity.ReloadEvents(): Added event Action to entity Teammate1!
+
+[2023/07/30 22:26:19.532] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 22:26:19.532] GroundEntity.ReloadEvents(): Added event Action to entity Teammate2!
+
+[2023/07/30 22:26:19.532] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 22:26:19.844] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 22:26:20.162] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:28:55.728] The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+Exception Depth: 0
+System.IO.IOException: The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at RogueEssence.Dev.Views.DevForm.saveConfig()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:30:11.145] LuaEngine.OnMenuButtonPressed()...
+
+[2023/07/30 22:30:12.979] LuaEngine.OnMenuButtonPressed()...
+
+[2023/07/30 22:30:14.579] LuaEngine.SaveData()..
+
+[2023/07/30 22:30:15.893] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:15.893] GroundMap.~GroundMap(): Finalizing base_camp..
+
+[2023/07/30 22:30:15.893] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 22:30:15.894] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 22:30:15.894] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Noctowl_Action!
+
+[2023/07/30 22:30:15.894] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Entrance_Action!
+
+[2023/07/30 22:30:15.894] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Range_Action!
+
+[2023/07/30 22:30:15.895] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.NPC_Coast_Action!
+
+[2023/07/30 22:30:15.895] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Teammate1_Action!
+
+[2023/07/30 22:30:15.895] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Teammate2_Action!
+
+[2023/07/30 22:30:15.895] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.North_Exit_Touch!
+
+[2023/07/30 22:30:15.896] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.First_North_Exit_Touch!
+
+[2023/07/30 22:30:15.896] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.East_Exit_Touch!
+
+[2023/07/30 22:30:15.896] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.West_Exit_Touch!
+
+[2023/07/30 22:30:15.896] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Sign_Action!
+
+[2023/07/30 22:30:15.897] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Assembly_Action!
+
+[2023/07/30 22:30:15.897] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Storage_Action!
+
+[2023/07/30 22:30:15.897] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Ferry_Action!
+
+[2023/07/30 22:30:15.898] Zone.~Zone(): Finalizing guildmaster_island..
+
+[2023/07/30 22:30:15.901] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 22:30:15.901] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 22:30:15.903] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:30:15.903] [SE]:Importing .NET packages..
+
+[2023/07/30 22:30:15.903] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:30:15.907] [SE]:Exposing script interface..
+
+[2023/07/30 22:30:15.908] [SE]:Setting up lua globals..
+
+[2023/07/30 22:30:15.908] [SE]:Setting up lua paths..
+
+[2023/07/30 22:30:15.909] [SE]:Caching scripts..
+
+[2023/07/30 22:30:15.918] [SE]:Installing game interface functions..
+
+[2023/07/30 22:30:15.918] [SE]:Running main.lua script..
+
+[2023/07/30 22:30:15.92] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:30:15.92] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:30:15.921] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:30:15.921] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:30:15.922] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:30:15.922] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:30:15.922] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:30:15.923] [SE]:Re-initializing scripts!
+
+[2023/07/30 22:30:15.923] [SE]:Loading last serialized script variables!
+
+[2023/07/30 22:30:17.229] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:17.265] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:26.286] [SE]:ChatterEngine:OnDeinit()
+
+[2023/07/30 22:30:26.286] [SE]:
+<!> ExampleSvc: Deinit..
+
+[2023/07/30 22:30:26.293] LuaEngine.OnGraphicsUnload()..
+
+[2023/07/30 22:30:26.296] Object reference not set to an instance of an object.
+Exception Depth: 0
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at RogueEssence.Dev.ViewModels.DevTabModsViewModel.doSwitch()
+   at RogueEssence.Dev.Views.DevForm.ExecuteOrPend(Action action)
+   at RogueEssence.Dev.ViewModels.DevTabModsViewModel.btnSwitch_Click()
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at Avalonia.Threading.AvaloniaSynchronizationContext.<>c__DisplayClass5_0.<Post>b__0() in /_/src/Avalonia.Base/Threading/AvaloniaSynchronizationContext.cs:line 33
+   at Avalonia.Threading.JobRunner.RunJobs(Nullable`1 priority) in /_/src/Avalonia.Base/Threading/JobRunner.cs:line 37
+   at Avalonia.Win32.Win32Platform.WndProc(IntPtr hWnd, UInt32 msg, IntPtr wParam, IntPtr lParam) in /_/src/Windows/Avalonia.Win32/Win32Platform.cs:line 210
+   at SDL2.SDL.SDL_PollEvent(SDL_Event& _event)
+   at Microsoft.Xna.Framework.SDL2_FNAPlatform.PollEvents(Game game, GraphicsAdapter& currentAdapter, Boolean[] textInputControlDown, Boolean& textInputSuppress)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run()
+   at RogueEssence.Dev.Views.DevForm.LoadGameDelegate()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:30:28.814] =========================================
+
+[2023/07/30 22:30:28.816] SESSION STARTED: 2023/07/30 22:30:28
+
+[2023/07/30 22:30:28.817] Version: 0.7.14.0
+
+[2023/07/30 22:30:28.817] .NET 6.0.20
+
+[2023/07/30 22:30:28.817] =========================================
+
+[2023/07/30 22:30:30.695] FNA3D Driver: D3D11
+
+[2023/07/30 22:30:30.697] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 22:30:30.815] FNA3D Driver: D3D11
+
+[2023/07/30 22:30:30.815] D3D11 Adapter: NVIDIA GeForce RTX 3060
+
+[2023/07/30 22:30:30.842] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:30:30.843] [SE]:Importing .NET packages..
+
+[2023/07/30 22:30:30.848] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:30:30.853] [SE]:Exposing script interface..
+
+[2023/07/30 22:30:30.857] [SE]:Setting up lua globals..
+
+[2023/07/30 22:30:30.858] [SE]:Setting up lua paths..
+
+[2023/07/30 22:30:30.863] [SE]:Caching scripts..
+
+[2023/07/30 22:30:30.879] [SE]:Installing game interface functions..
+
+[2023/07/30 22:30:30.88] [SE]:Running main.lua script..
+
+[2023/07/30 22:30:30.885] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:30:30.889] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:30:30.89] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:30:30.89] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:30:30.891] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:30:30.891] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:30:30.891] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:30:32.281] [SE]:ChatterEngine:OnInit()
+
+[2023/07/30 22:30:32.281] [SE]:
+<!> ExampleSvc: Init..
+
+[2023/07/30 22:30:32.284] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:32.287] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 22:30:32.287] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 22:30:32.289] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:30:32.289] [SE]:Importing .NET packages..
+
+[2023/07/30 22:30:32.289] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:30:32.297] [SE]:Exposing script interface..
+
+[2023/07/30 22:30:32.298] [SE]:Setting up lua globals..
+
+[2023/07/30 22:30:32.298] [SE]:Setting up lua paths..
+
+[2023/07/30 22:30:32.299] [SE]:Caching scripts..
+
+[2023/07/30 22:30:32.308] [SE]:Installing game interface functions..
+
+[2023/07/30 22:30:32.308] [SE]:Running main.lua script..
+
+[2023/07/30 22:30:32.31] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:30:32.31] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:30:32.311] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:30:32.312] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:30:32.312] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:30:32.313] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:30:32.313] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:30:32.313] [SE]:Re-initializing scripts!
+
+[2023/07/30 22:30:32.314] [SE]:Loading last serialized script variables!
+
+[2023/07/30 22:30:33.354] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:30:36.713] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:36.768] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:54.463] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:54.466] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 22:30:54.466] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 22:30:54.474] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:30:54.474] [SE]:Importing .NET packages..
+
+[2023/07/30 22:30:54.475] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:30:54.478] [SE]:Exposing script interface..
+
+[2023/07/30 22:30:54.479] [SE]:Setting up lua globals..
+
+[2023/07/30 22:30:54.479] [SE]:Setting up lua paths..
+
+[2023/07/30 22:30:54.481] [SE]:Caching scripts..
+
+[2023/07/30 22:30:54.489] [SE]:Installing game interface functions..
+
+[2023/07/30 22:30:54.49] [SE]:Running main.lua script..
+
+[2023/07/30 22:30:54.491] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:30:54.492] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:30:54.492] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:30:54.493] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:30:54.493] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:30:54.494] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:30:54.494] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:30:54.494] [SE]:Re-initializing scripts!
+
+[2023/07/30 22:30:54.495] [SE]:Loading last serialized script variables!
+
+[2023/07/30 22:30:55.293] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:55.294] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:58.276] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:30:58.341] Zone Seed: 16965971331733557217
+
+[2023/07/30 22:30:58.344] Zone Seed: 16965971331733557217
+
+[2023/07/30 22:30:58.346] Map Count: 0
+
+[2023/07/30 22:30:58.346] Map Seed: 0
+
+[2023/07/30 22:30:58.603] Steps:
+
+
+[2023/07/30 22:30:58.604] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:30:58.609] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 22:30:58.61] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 22:30:58.611] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 22:30:58.611] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 22:30:58.612] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 22:30:58.613] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 22:30:58.613] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 22:30:58.613] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 22:30:58.671] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:30:58.674] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:30:59.381] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:31:00.733] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:32:06.182] Zone Seed: 16965971331733557217
+
+[2023/07/30 22:32:06.183] Map Count: 1
+
+[2023/07/30 22:32:06.183] Map Seed: 4294967297
+
+[2023/07/30 22:32:06.202] Steps:
+
+
+[2023/07/30 22:32:06.202] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:32:06.202] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:32:08.18] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:32:37.68] Zone Seed: 16965971331733557217
+
+[2023/07/30 22:32:37.681] Map Count: 2
+
+[2023/07/30 22:32:37.681] Map Seed: 8589934594
+
+[2023/07/30 22:32:37.694] Steps:
+
+
+[2023/07/30 22:32:37.695] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:32:37.695] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:32:39.68] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:32:54.247] Zone Seed: 16965971331733557217
+
+[2023/07/30 22:32:54.247] Map Count: 3
+
+[2023/07/30 22:32:54.248] Map Seed: 12884901891
+
+[2023/07/30 22:32:54.26] Steps:
+
+
+[2023/07/30 22:32:54.261] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:32:54.261] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:32:56.247] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:37:26.92] Zone.~Zone(): Finalizing ruined_lab..
+
+[2023/07/30 22:37:26.926] Zone Seed: 1163685171921590053
+
+[2023/07/30 22:37:26.926] Zone Seed: 1163685171921590053
+
+[2023/07/30 22:37:26.927] Map Count: 0
+
+[2023/07/30 22:37:26.927] Map Seed: 12884901888
+
+[2023/07/30 22:37:26.941] Steps:
+
+
+[2023/07/30 22:37:26.941] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:37:26.945] [SE]:LuaEngine.RunZoneScript(): Error running zone script!:
+...md-reflected-hearts\Data\Script\zone\ruined_lab\init.lua:33: 'then' expected near 'GAME'
+path:
+C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\zone\ruined_lab\init.lua
+
+[2023/07/30 22:37:26.947] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:37:26.948] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:37:26.949] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:37:28.944] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:38:00.494] Zone.~Zone(): Finalizing ruined_lab..
+
+[2023/07/30 22:38:00.499] Zone Seed: 11019624508190939648
+
+[2023/07/30 22:38:00.5] Zone Seed: 11019624508190939648
+
+[2023/07/30 22:38:00.5] Map Count: 0
+
+[2023/07/30 22:38:00.5] Map Seed: 12884901888
+
+[2023/07/30 22:38:00.514] Steps:
+
+
+[2023/07/30 22:38:00.514] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:38:00.519] [SE]:LuaEngine.RunZoneScript(): Error running zone script!:
+...md-reflected-hearts\Data\Script\zone\ruined_lab\init.lua:46: 'end' expected (to close 'function' at line 31) near <eof>
+path:
+C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\zone\ruined_lab\init.lua
+
+[2023/07/30 22:38:00.521] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:38:00.521] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:38:00.522] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:38:02.527] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:38:42.048] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 22:38:42.048] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 22:38:42.05] [SE]:Initialized Lua 5.3
+
+[2023/07/30 22:38:42.05] [SE]:Importing .NET packages..
+
+[2023/07/30 22:38:42.051] [SE]:Exposing game engine components instances..
+
+[2023/07/30 22:38:42.054] [SE]:Exposing script interface..
+
+[2023/07/30 22:38:42.055] [SE]:Setting up lua globals..
+
+[2023/07/30 22:38:42.055] [SE]:Setting up lua paths..
+
+[2023/07/30 22:38:42.056] [SE]:Caching scripts..
+
+[2023/07/30 22:38:42.065] [SE]:Installing game interface functions..
+
+[2023/07/30 22:38:42.065] [SE]:Running main.lua script..
+
+[2023/07/30 22:38:42.067] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 22:38:42.067] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 22:38:42.068] [SE]:DebugTools:initialize()
+
+[2023/07/30 22:38:42.068] [SE]:Registered service DebugTools!
+
+[2023/07/30 22:38:42.069] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 22:38:42.069] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 22:38:42.069] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 22:38:42.07] [SE]:Re-initializing scripts!
+
+[2023/07/30 22:38:42.07] [SE]:Loading last serialized script variables!
+
+[2023/07/30 22:38:42.07] LuaEngine.LoadSavedData()..
+
+[2023/07/30 22:38:42.072] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:38:42.076] [SE]:LuaEngine.RunZoneScript(): Error running zone script!:
+...md-reflected-hearts\Data\Script\zone\ruined_lab\init.lua:47: 'end' expected (to close 'function' at line 31) near <eof>
+path:
+C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\zone\ruined_lab\init.lua
+
+[2023/07/30 22:38:42.077] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:38:42.078] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:38:44.061] Zone.~Zone(): Finalizing ruined_lab..
+
+[2023/07/30 22:38:44.068] Zone Seed: 13556382510370285238
+
+[2023/07/30 22:38:44.069] Zone Seed: 13556382510370285238
+
+[2023/07/30 22:38:44.069] Map Count: 0
+
+[2023/07/30 22:38:44.07] Map Seed: 12884901888
+
+[2023/07/30 22:38:44.082] Steps:
+
+
+[2023/07/30 22:38:44.082] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:38:44.082] [SE]:LuaEngine.RunZoneScript(): Error running zone script!:
+...md-reflected-hearts\Data\Script\zone\ruined_lab\init.lua:47: 'end' expected (to close 'function' at line 31) near <eof>
+path:
+C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\zone\ruined_lab\init.lua
+
+[2023/07/30 22:38:44.084] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:38:44.085] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:38:44.086] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:38:46.094] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:42:33.928] Zone.~Zone(): Finalizing ruined_lab..
+
+[2023/07/30 22:42:33.934] Zone Seed: 4251923309685861199
+
+[2023/07/30 22:42:33.934] Zone Seed: 4251923309685861199
+
+[2023/07/30 22:42:33.934] Map Count: 0
+
+[2023/07/30 22:42:33.934] Map Seed: 12884901888
+
+[2023/07/30 22:42:33.949] Steps:
+
+
+[2023/07/30 22:42:33.949] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:42:33.954] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 22:42:33.955] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 22:42:33.955] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 22:42:33.955] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 22:42:33.956] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 22:42:33.956] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 22:42:33.956] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 22:42:33.956] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 22:42:33.957] [SE]:=>> Init_secret_garden
+
+[2023/07/30 22:42:33.958] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:42:33.959] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:42:33.96] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:42:35.949] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:42:41.162] Zone Seed: 4251923309685861199
+
+[2023/07/30 22:42:41.163] Map Count: 0
+
+[2023/07/30 22:42:41.163] Map Seed: 12884901888
+
+[2023/07/30 22:42:41.176] Steps:
+
+
+[2023/07/30 22:42:41.176] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:42:41.177] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:42:41.177] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:42:47.011] [SE]:=>> ExitSegment_secret_garden result Cleared: 2 segment 0
+
+[2023/07/30 22:42:47.013] Zone Seed: 4251923309685861199
+
+[2023/07/30 22:42:47.013] Map Count: 1
+
+[2023/07/30 22:42:47.013] Map Seed: 1
+
+[2023/07/30 22:42:47.082] Steps:
+
+
+[2023/07/30 22:42:47.097] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:42:47.098] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:42:47.099] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:42:49.149] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:43:25.146] Zone Seed: 0
+
+[2023/07/30 22:43:25.325] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.resx" strings file for this map!
+
+[2023/07/30 22:43:25.325] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr.resx" strings file for this map!
+
+[2023/07/30 22:43:25.326] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr-ca.resx" strings file for this map!
+
+[2023/07/30 22:43:25.326] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.de.resx" strings file for this map!
+
+[2023/07/30 22:43:25.327] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es.resx" strings file for this map!
+
+[2023/07/30 22:43:25.327] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es-la.resx" strings file for this map!
+
+[2023/07/30 22:43:25.327] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.it.resx" strings file for this map!
+
+[2023/07/30 22:43:25.327] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.pt.resx" strings file for this map!
+
+[2023/07/30 22:43:25.328] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ko.resx" strings file for this map!
+
+[2023/07/30 22:43:25.328] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja.resx" strings file for this map!
+
+[2023/07/30 22:43:25.328] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja-jp.resx" strings file for this map!
+
+[2023/07/30 22:43:25.329] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hans.resx" strings file for this map!
+
+[2023/07/30 22:43:25.329] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hant.resx" strings file for this map!
+
+[2023/07/30 22:43:43.393] Apply RogueEssence.Dev.ViewModels.GroundTextureStateUndo
+
+[2023/07/30 22:43:44.446] The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+Exception Depth: 0
+System.IO.IOException: The process cannot access the file 'C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\devConfig' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at RogueEssence.Dev.Views.DevForm.saveConfig()
+
+
+Lua Trace:
+stack traceback:
+
+Coroutine Trace:
+[2023/07/30 22:44:13.065] Apply RogueEssence.Dev.ViewModels.DrawGroundTexUndo
+
+[2023/07/30 22:44:47.034] Apply RogueEssence.Dev.ViewModels.GroundEntityStateUndo
+
+[2023/07/30 22:44:51.515] Apply RogueEssence.Dev.ViewModels.GroundEntityStateUndo
+
+[2023/07/30 22:44:55.513] Apply RogueEssence.Dev.ViewModels.GroundEntityStateUndo
+
+[2023/07/30 22:45:07.646] Apply RogueEssence.Dev.ViewModels.GroundEntityStateUndo
+
+[2023/07/30 22:45:19.229] Apply RogueEssence.Dev.ViewModels.GroundEntityStateUndo
+
+[2023/07/30 22:52:42.866] GroundMap.~GroundMap(): Finalizing partnerIntroScene..
+
+[2023/07/30 22:52:42.868] Zone.~Zone(): Finalizing ..
+
+[2023/07/30 22:52:42.872] Zone Seed: 4251923309685861199
+
+[2023/07/30 22:52:42.873] Zone Seed: 4251923309685861199
+
+[2023/07/30 22:52:42.873] Map Count: 0
+
+[2023/07/30 22:52:42.873] Map Seed: 0
+
+[2023/07/30 22:52:42.917] Steps:
+
+
+[2023/07/30 22:52:42.917] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 22:52:42.918] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 22:52:42.918] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 22:52:42.918] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 22:52:42.919] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 22:52:42.919] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 22:52:42.92] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 22:52:42.92] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 22:52:42.92] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 22:52:42.921] [SE]:=>> Init_secret_garden
+
+[2023/07/30 22:52:42.929] Map.OnInit(): Initializing the map..
+
+[2023/07/30 22:52:42.929] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 22:52:42.93] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 22:52:42.931] LuaEngine.OnMusicChange()..
+
+[2023/07/30 22:58:02.347] Zone Seed: 0
+
+[2023/07/30 22:58:02.366] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.resx" strings file for this map!
+
+[2023/07/30 22:58:02.367] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr.resx" strings file for this map!
+
+[2023/07/30 22:58:02.367] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.fr-ca.resx" strings file for this map!
+
+[2023/07/30 22:58:02.367] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.de.resx" strings file for this map!
+
+[2023/07/30 22:58:02.368] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es.resx" strings file for this map!
+
+[2023/07/30 22:58:02.368] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.es-la.resx" strings file for this map!
+
+[2023/07/30 22:58:02.368] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.it.resx" strings file for this map!
+
+[2023/07/30 22:58:02.369] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.pt.resx" strings file for this map!
+
+[2023/07/30 22:58:02.369] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ko.resx" strings file for this map!
+
+[2023/07/30 22:58:02.37] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja.resx" strings file for this map!
+
+[2023/07/30 22:58:02.37] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.ja-jp.resx" strings file for this map!
+
+[2023/07/30 22:58:02.371] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hans.resx" strings file for this map!
+
+[2023/07/30 22:58:02.371] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground): Couldn't open the "strings.zh-hant.resx" strings file for this map!
+
+[2023/07/30 22:58:08.231] GroundMap.~GroundMap(): Finalizing ..
+
+[2023/07/30 22:58:08.25] GroundMap.LoadScriptEvents(): Added event Init to map partnerIntroScene!
+
+[2023/07/30 22:58:08.251] GroundMap.LoadScriptEvents(): Added event Enter to map partnerIntroScene!
+
+[2023/07/30 22:58:08.251] GroundMap.LoadScriptEvents(): Added event Exit to map partnerIntroScene!
+
+[2023/07/30 22:58:08.252] GroundMap.LoadScriptEvents(): Added event Update to map partnerIntroScene!
+
+[2023/07/30 22:58:08.252] GroundMap.LoadScriptEvents(): Added event GameSave to map partnerIntroScene!
+
+[2023/07/30 22:58:08.253] GroundMap.LoadScriptEvents(): Added event GameLoad to map partnerIntroScene!
+
+[2023/07/30 22:58:08.26] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.resx" strings file for this map!
+
+[2023/07/30 22:58:08.261] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.fr.resx" strings file for this map!
+
+[2023/07/30 22:58:08.261] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.fr-ca.resx" strings file for this map!
+
+[2023/07/30 22:58:08.262] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.de.resx" strings file for this map!
+
+[2023/07/30 22:58:08.262] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.es.resx" strings file for this map!
+
+[2023/07/30 22:58:08.262] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.es-la.resx" strings file for this map!
+
+[2023/07/30 22:58:08.263] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.it.resx" strings file for this map!
+
+[2023/07/30 22:58:08.263] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.pt.resx" strings file for this map!
+
+[2023/07/30 22:58:08.264] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.ko.resx" strings file for this map!
+
+[2023/07/30 22:58:08.264] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.ja.resx" strings file for this map!
+
+[2023/07/30 22:58:08.264] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.ja-jp.resx" strings file for this map!
+
+[2023/07/30 22:58:08.265] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.zh-hans.resx" strings file for this map!
+
+[2023/07/30 22:58:08.265] GroundEditor.LoadStrings(C:\Users\EnderWolf\3D Objects\pmd-reflected-hearts\Data\Script\ground\partnerIntroScene): Loaded succesfully the "strings.zh-hant.resx" strings file for this map!
+
+[2023/07/30 22:58:09.664] Apply RogueEssence.Dev.ViewModels.DrawGroundTexUndo
+
+[2023/07/30 22:58:20.28] Apply RogueEssence.Dev.ViewModels.DrawGroundTexUndo
+
+[2023/07/30 23:03:27.314] Apply RogueEssence.Dev.ViewModels.GroundEntityStateUndo
+
+[2023/07/30 23:09:04.072] GroundMap.~GroundMap(): Finalizing partnerIntroScene..
+
+[2023/07/30 23:09:04.072] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 23:09:04.073] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 23:09:04.073] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Exit!
+
+[2023/07/30 23:09:04.073] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 23:09:04.073] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameSave!
+
+[2023/07/30 23:09:04.074] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameLoad!
+
+[2023/07/30 23:09:04.075] Zone.~Zone(): Finalizing ..
+
+[2023/07/30 23:09:04.079] Zone Seed: 4251923309685861199
+
+[2023/07/30 23:09:04.08] Zone Seed: 4251923309685861199
+
+[2023/07/30 23:09:04.08] Map Count: 0
+
+[2023/07/30 23:09:04.08] Map Seed: 0
+
+[2023/07/30 23:09:04.094] Steps:
+
+
+[2023/07/30 23:09:04.094] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 23:09:04.095] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 23:09:04.095] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 23:09:04.095] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 23:09:04.095] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 23:09:04.096] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 23:09:04.096] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 23:09:04.096] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 23:09:04.097] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 23:09:04.097] [SE]:=>> Init_secret_garden
+
+[2023/07/30 23:09:04.099] Map.OnInit(): Initializing the map..
+
+[2023/07/30 23:09:04.099] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 23:09:04.099] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 23:09:04.101] LuaEngine.OnMusicChange()..
+
+[2023/07/30 23:09:07.699] Zone.~Zone(): Finalizing ruined_lab..
+
+[2023/07/30 23:09:07.704] Zone Seed: 8683583604280564983
+
+[2023/07/30 23:09:07.722] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 23:09:07.723] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 23:09:07.723] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 23:09:07.723] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 23:09:07.724] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 23:09:07.724] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 23:09:07.724] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 23:09:07.724] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 23:09:07.725] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 23:09:07.725] [SE]:=>> Init_secret_garden
+
+[2023/07/30 23:09:07.727] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 23:09:07.732] GroundMap.LoadScriptEvents(): Added event Init to map partnerIntroScene!
+
+[2023/07/30 23:09:07.732] GroundMap.LoadScriptEvents(): Added event Enter to map partnerIntroScene!
+
+[2023/07/30 23:09:07.732] GroundMap.LoadScriptEvents(): Added event Exit to map partnerIntroScene!
+
+[2023/07/30 23:09:07.732] GroundMap.LoadScriptEvents(): Added event Update to map partnerIntroScene!
+
+[2023/07/30 23:09:07.733] GroundMap.LoadScriptEvents(): Added event GameSave to map partnerIntroScene!
+
+[2023/07/30 23:09:07.733] GroundMap.LoadScriptEvents(): Added event GameLoad to map partnerIntroScene!
+
+[2023/07/30 23:09:07.734] [SE]:AutoLoading Strings!..
+
+[2023/07/30 23:09:07.737] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 23:09:07.738] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 23:09:21.632] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 23:09:21.633] GroundMap.~GroundMap(): Finalizing partnerIntroScene..
+
+[2023/07/30 23:09:21.633] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 23:09:21.634] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 23:09:21.634] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Exit!
+
+[2023/07/30 23:09:21.634] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 23:09:21.635] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameSave!
+
+[2023/07/30 23:09:21.635] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameLoad!
+
+[2023/07/30 23:09:21.637] Zone.~Zone(): Finalizing ruined_lab..
+
+[2023/07/30 23:09:21.642] Zone Seed: 5633762714785651092
+
+[2023/07/30 23:09:21.653] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 23:09:21.653] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 23:09:21.653] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 23:09:21.654] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 23:09:21.654] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 23:09:21.654] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 23:09:21.654] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 23:09:21.655] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 23:09:21.655] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 23:09:21.655] [SE]:=>> Init_secret_garden
+
+[2023/07/30 23:09:21.656] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 23:09:21.656] GroundMap.LoadScriptEvents(): Added event Init to map partnerIntroScene!
+
+[2023/07/30 23:09:21.656] GroundMap.LoadScriptEvents(): Added event Enter to map partnerIntroScene!
+
+[2023/07/30 23:09:21.657] GroundMap.LoadScriptEvents(): Added event Exit to map partnerIntroScene!
+
+[2023/07/30 23:09:21.657] GroundMap.LoadScriptEvents(): Added event Update to map partnerIntroScene!
+
+[2023/07/30 23:09:21.657] GroundMap.LoadScriptEvents(): Added event GameSave to map partnerIntroScene!
+
+[2023/07/30 23:09:21.658] GroundMap.LoadScriptEvents(): Added event GameLoad to map partnerIntroScene!
+
+[2023/07/30 23:09:21.659] [SE]:AutoLoading Strings!..
+
+[2023/07/30 23:09:21.659] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 23:09:21.659] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 23:09:22.398] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 23:09:22.399] GroundMap.~GroundMap(): Finalizing partnerIntroScene..
+
+[2023/07/30 23:09:22.399] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 23:09:22.4] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 23:09:22.4] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Exit!
+
+[2023/07/30 23:09:22.4] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 23:09:22.4] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameSave!
+
+[2023/07/30 23:09:22.401] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameLoad!
+
+[2023/07/30 23:09:22.412] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 23:09:22.412] GroundMap.LoadScriptEvents(): Added event Init to map partnerIntroScene!
+
+[2023/07/30 23:09:22.413] GroundMap.LoadScriptEvents(): Added event Enter to map partnerIntroScene!
+
+[2023/07/30 23:09:22.413] GroundMap.LoadScriptEvents(): Added event Exit to map partnerIntroScene!
+
+[2023/07/30 23:09:22.414] GroundMap.LoadScriptEvents(): Added event Update to map partnerIntroScene!
+
+[2023/07/30 23:09:22.414] GroundMap.LoadScriptEvents(): Added event GameSave to map partnerIntroScene!
+
+[2023/07/30 23:09:22.414] GroundMap.LoadScriptEvents(): Added event GameLoad to map partnerIntroScene!
+
+[2023/07/30 23:09:22.415] [SE]:AutoLoading Strings!..
+
+[2023/07/30 23:09:22.415] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 23:09:22.416] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 23:09:24.215] [SE]:*****************UpgradeTools:__gc()
+
+[2023/07/30 23:09:24.215] [SE]:*****************DebugTools:__gc()
+
+[2023/07/30 23:09:24.217] [SE]:Initialized Lua 5.3
+
+[2023/07/30 23:09:24.217] [SE]:Importing .NET packages..
+
+[2023/07/30 23:09:24.217] [SE]:Exposing game engine components instances..
+
+[2023/07/30 23:09:24.221] [SE]:Exposing script interface..
+
+[2023/07/30 23:09:24.222] [SE]:Setting up lua globals..
+
+[2023/07/30 23:09:24.222] [SE]:Setting up lua paths..
+
+[2023/07/30 23:09:24.223] [SE]:Caching scripts..
+
+[2023/07/30 23:09:24.231] [SE]:Installing game interface functions..
+
+[2023/07/30 23:09:24.232] [SE]:Running main.lua script..
+
+[2023/07/30 23:09:24.233] [SE]:ChatterEngine:initialize()
+
+[2023/07/30 23:09:24.233] [SE]:Registered service ChatterEngine!
+
+[2023/07/30 23:09:24.234] [SE]:DebugTools:initialize()
+
+[2023/07/30 23:09:24.234] [SE]:Registered service DebugTools!
+
+[2023/07/30 23:09:24.235] [SE]:UpgradeTools:initialize()
+
+[2023/07/30 23:09:24.235] [SE]:Registered service UpgradeTools!
+
+[2023/07/30 23:09:24.236] [SE]: **- Lua engine ready! -**
+
+[2023/07/30 23:09:24.236] [SE]:Re-initializing scripts!
+
+[2023/07/30 23:09:24.236] [SE]:Loading last serialized script variables!
+
+[2023/07/30 23:09:24.236] LuaEngine.LoadSavedData()..
+
+[2023/07/30 23:09:24.238] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 23:09:24.239] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 23:09:24.239] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 23:09:24.24] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 23:09:24.24] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 23:09:24.24] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 23:09:24.241] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 23:09:24.241] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 23:09:24.241] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 23:09:24.242] [SE]:=>> Init_secret_garden
+
+[2023/07/30 23:09:24.242] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 23:09:24.244] GroundMap.LoadScriptEvents(): Added event Init to map partnerIntroScene!
+
+[2023/07/30 23:09:24.244] GroundMap.LoadScriptEvents(): Added event Enter to map partnerIntroScene!
+
+[2023/07/30 23:09:24.244] GroundMap.LoadScriptEvents(): Added event Exit to map partnerIntroScene!
+
+[2023/07/30 23:09:24.244] GroundMap.LoadScriptEvents(): Added event Update to map partnerIntroScene!
+
+[2023/07/30 23:09:24.245] GroundMap.LoadScriptEvents(): Added event GameSave to map partnerIntroScene!
+
+[2023/07/30 23:09:24.245] GroundMap.LoadScriptEvents(): Added event GameLoad to map partnerIntroScene!
+
+[2023/07/30 23:09:24.245] [SE]:AutoLoading Strings!..
+
+[2023/07/30 23:09:24.266] [SE]:...ted-hearts/Data/Script/ground\partnerIntroScene/init.lua:36: attempt to index a nil value (global '_Data')
+stack traceback:
+	...ted-hearts/Data/Script/ground\partnerIntroScene/init.lua:36: in function 'ground.partnerIntroScene.Init'
+	[C]: in function 'xpcall'
+	[string "MakeCoroutineIterator"]:3: in function <[string "MakeCoroutineIterator"]:3>
+
+[2023/07/30 23:09:24.267] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 23:09:26.548] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 23:09:26.549] GroundMap.~GroundMap(): Finalizing partnerIntroScene..
+
+[2023/07/30 23:09:26.549] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 23:09:26.55] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 23:09:26.55] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Exit!
+
+[2023/07/30 23:09:26.55] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 23:09:26.55] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameSave!
+
+[2023/07/30 23:09:26.551] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameLoad!
+
+[2023/07/30 23:09:26.552] Zone.~Zone(): Finalizing ruined_lab..
+
+[2023/07/30 23:09:26.557] Zone Seed: 8619305583118120564
+
+[2023/07/30 23:09:26.57] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 23:09:26.571] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 23:09:26.571] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 23:09:26.571] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 23:09:26.572] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 23:09:26.572] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 23:09:26.572] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 23:09:26.572] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 23:09:26.573] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 23:09:26.573] [SE]:=>> Init_secret_garden
+
+[2023/07/30 23:09:26.573] GroundMap.OnInit(): Initializing the map..
+
+[2023/07/30 23:09:26.574] GroundMap.LoadScriptEvents(): Added event Init to map partnerIntroScene!
+
+[2023/07/30 23:09:26.574] GroundMap.LoadScriptEvents(): Added event Enter to map partnerIntroScene!
+
+[2023/07/30 23:09:26.575] GroundMap.LoadScriptEvents(): Added event Exit to map partnerIntroScene!
+
+[2023/07/30 23:09:26.575] GroundMap.LoadScriptEvents(): Added event Update to map partnerIntroScene!
+
+[2023/07/30 23:09:26.575] GroundMap.LoadScriptEvents(): Added event GameSave to map partnerIntroScene!
+
+[2023/07/30 23:09:26.576] GroundMap.LoadScriptEvents(): Added event GameLoad to map partnerIntroScene!
+
+[2023/07/30 23:09:26.576] [SE]:AutoLoading Strings!..
+
+[2023/07/30 23:09:26.577] [SE]:...ted-hearts/Data/Script/ground\partnerIntroScene/init.lua:36: attempt to index a nil value (global '_Data')
+stack traceback:
+	...ted-hearts/Data/Script/ground\partnerIntroScene/init.lua:36: in function 'ground.partnerIntroScene.Init'
+	[C]: in function 'xpcall'
+	[string "MakeCoroutineIterator"]:3: in function <[string "MakeCoroutineIterator"]:3>
+
+[2023/07/30 23:09:26.577] LuaEngine.OnGroundMapInit()..
+
+[2023/07/30 23:09:34.687] LuaEngine.SaveData()..
+
+[2023/07/30 23:09:34.724] LuaEngine.SaveData()..
+
+[2023/07/30 23:09:34.73] LuaEngine.OnGroundMapEnter()..
+
+[2023/07/30 23:09:34.73] LuaEngine.OnGroundMapExit()..
+
+[2023/07/30 23:09:34.73] GroundMap.~GroundMap(): Finalizing partnerIntroScene..
+
+[2023/07/30 23:09:34.731] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Init!
+
+[2023/07/30 23:09:34.731] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Enter!
+
+[2023/07/30 23:09:34.731] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Exit!
+
+[2023/07/30 23:09:34.731] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.Update!
+
+[2023/07/30 23:09:34.732] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameSave!
+
+[2023/07/30 23:09:34.732] ScriptEvent.DoCleanup(): Doing cleanup on CURMAPSCR.GameLoad!
+
+[2023/07/30 23:09:34.733] Zone.~Zone(): Finalizing ruined_lab..
+
+[2023/07/30 23:09:34.738] Zone Seed: 13518686128848148626
+
+[2023/07/30 23:09:34.738] Zone Seed: 13518686128848148626
+
+[2023/07/30 23:09:34.738] Map Count: 0
+
+[2023/07/30 23:09:34.739] Map Seed: 0
+
+[2023/07/30 23:09:34.767] Steps:
+
+
+[2023/07/30 23:09:34.767] Zone.OnInit(): Initializing the zone..
+
+[2023/07/30 23:09:34.768] Zone.LoadScriptEvents(): Added event Init to zone ruined_lab!
+
+[2023/07/30 23:09:34.768] Zone.LoadScriptEvents(): Added event EnterSegment to zone ruined_lab!
+
+[2023/07/30 23:09:34.769] Zone.LoadScriptEvents(): Added event ExitSegment to zone ruined_lab!
+
+[2023/07/30 23:09:34.769] Zone.LoadScriptEvents(): Added event Rescued to zone ruined_lab!
+
+[2023/07/30 23:09:34.769] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Init!
+
+[2023/07/30 23:09:34.769] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.EnterSegment!
+
+[2023/07/30 23:09:34.77] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.ExitSegment!
+
+[2023/07/30 23:09:34.77] ScriptEvent.ReloadEvent(): Reloading event CURZONESCR.Rescued!
+
+[2023/07/30 23:09:34.77] [SE]:=>> Init_secret_garden
+
+[2023/07/30 23:09:34.778] Map.OnInit(): Initializing the map..
+
+[2023/07/30 23:09:34.779] LuaEngine.OnDungeonMapInit()..
+
+[2023/07/30 23:09:34.779] LuaEngine.OnDungeonMapEnter()..
+
+[2023/07/30 23:09:34.78] LuaEngine.OnMusicChange()..
+
