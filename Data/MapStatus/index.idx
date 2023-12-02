@@ -1,0 +1,539 @@
+﻿{
+"Version": "0.7.14.0",
+"Object": {
+"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[RogueEssence.Data.EntrySummary, RogueEssence]], System.Private.CoreLib",
+"blizzard": {
+"Name": {
+"DefaultText": "Blizzard",
+"LocalTexts": {
+"de": "Blizzard",
+"es": "Ventisca",
+"zh-hans": "暴风雪"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"clear": {
+"Name": {
+"DefaultText": "Clear",
+"LocalTexts": {
+"fr": "Clair",
+"de": "Klar",
+"es": "Despejado",
+"zh-hans": "晴朗"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"clouds_overhead": {
+"Name": {
+"DefaultText": "Clouds Overhead",
+"LocalTexts": {
+"zh-hans": "多云"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"cloudy": {
+"Name": {
+"DefaultText": "Cloudy",
+"LocalTexts": {
+"fr": "Nuageux",
+"de": "Wolkig",
+"es": "Nublado",
+"zh-hans": "阴天"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"dark": {
+"Name": {
+"DefaultText": "Dark",
+"LocalTexts": {
+"es": "Oscuro",
+"zh-hans": "黑暗"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"default_mapstatus": {
+"Name": {
+"DefaultText": "Default MapStatus",
+"LocalTexts": {
+"es": "Estado del Mapa por defecto",
+"zh-hans": "默认地图状态"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"default_weather": {
+"Name": {
+"DefaultText": "Default Weather",
+"LocalTexts": {
+"es": "Tiempo por defecto",
+"zh-hans": "默认天气"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"electric_terrain": {
+"Name": {
+"DefaultText": "Electric Terrain",
+"LocalTexts": {
+"fr": "Champ Électrifié",
+"de": "Elektrofeld",
+"es": "Campo Eléctrico",
+"zh-hans": "电气场地"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"foe_fov": {
+"Name": {
+"DefaultText": "Foe FOV",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"fog": {
+"Name": {
+"DefaultText": "Fog",
+"LocalTexts": {
+"fr": "Brouillard",
+"de": "Nebel",
+"es": "Niebla",
+"zh-hans": "起雾"
+}
+},
+"Released": false,
+"Comment": "",
+"SortOrder": 0
+},
+"grassy_terrain": {
+"Name": {
+"DefaultText": "Grassy Terrain",
+"LocalTexts": {
+"fr": "Champ Herbu",
+"de": "Grasfeld",
+"es": "Campo de hierba",
+"zh-hans": "青草场地"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"gravity": {
+"Name": {
+"DefaultText": "Gravity",
+"LocalTexts": {
+"fr": "Gravitée",
+"de": "Erdanziehung",
+"es": "Gravedad",
+"zh-hans": "重力"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"hail": {
+"Name": {
+"DefaultText": "Hail",
+"LocalTexts": {
+"fr": "Grêle",
+"de": "Hagel",
+"es": "Granizo",
+"zh-hans": "冰雹"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"harsh_sun": {
+"Name": {
+"DefaultText": "Harsh Sun",
+"LocalTexts": {
+"fr": "Soleil Intense",
+"de": "Strenge Sonne",
+"es": "Sol abrasador",
+"zh-hans": "大日照"
+}
+},
+"Released": false,
+"Comment": "",
+"SortOrder": 0
+},
+"heavy_rain": {
+"Name": {
+"DefaultText": "Heavy Rain",
+"LocalTexts": {
+"fr": "Pluie Battante",
+"de": "Starkregen",
+"es": "Diluvio",
+"zh-hans": "大雨"
+}
+},
+"Released": false,
+"Comment": "",
+"SortOrder": 0
+},
+"intrusion_check": {
+"Name": {
+"DefaultText": "Intrusion Check",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"inverse": {
+"Name": {
+"DefaultText": "Inverse",
+"LocalTexts": {
+"fr": "Inversement",
+"de": "Umkehr",
+"es": "Inverso",
+"zh-hans": "反转"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"items_sniffed": {
+"Name": {
+"DefaultText": "Items Sniffed",
+"LocalTexts": {
+"zh-hans": "道具嗅探"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"magic_room": {
+"Name": {
+"DefaultText": "Magic Room",
+"LocalTexts": {
+"fr": "Zone Magique",
+"de": "Magieraum",
+"es": "Zona Mágica",
+"zh-hans": "魔法空间"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"map_clear_check": {
+"Name": {
+"DefaultText": "Map Clear Check",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"map_surveyed": {
+"Name": {
+"DefaultText": "Map Surveyed",
+"LocalTexts": {
+"de": "Karte überschaut",
+"es": "Mapa Inspeccionado"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"mercy_revive": {
+"Name": {
+"DefaultText": "Mercy Revive",
+"LocalTexts": {
+"de": "Gnädige Wiederbelebung"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"misty_terrain": {
+"Name": {
+"DefaultText": "Misty Terrain",
+"LocalTexts": {
+"fr": "Champ Brumeux",
+"de": "Nebelfeld",
+"es": "Campo de niebla",
+"zh-hans": "薄雾场地"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"monster_mansion": {
+"Name": {
+"DefaultText": "Monster Mansion",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"move_ban": {
+"Name": {
+"DefaultText": "Move Ban",
+"LocalTexts": {
+"fr": "Interdiction de Capacité",
+"de": "Attackenverbannung",
+"es": "Prohibición de movimiento",
+"zh-hans": "招式禁用"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"mysterious_distortion": {
+"Name": {
+"DefaultText": "Mysterious Distortion",
+"LocalTexts": {
+"zh-hans": "不可思议的扭曲"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"mysterious_force": {
+"Name": {
+"DefaultText": "Mysterious Force",
+"LocalTexts": {
+"fr": "Aura Mystère",
+"de": "Mysteriöse Kraft",
+"es": "Fuerza Misteriosa",
+"zh-hans": "神秘力量"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"outlaw_clear_check": {
+"Name": {
+"DefaultText": "Outlaw Clear Check",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"psychic_terrain": {
+"Name": {
+"DefaultText": "Psychic Terrain",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"rain": {
+"Name": {
+"DefaultText": "Rain",
+"LocalTexts": {
+"fr": "Pluvieux",
+"de": "Regen",
+"es": "Lluvioso",
+"zh-hans": "下雨"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"rescued": {
+"Name": {
+"DefaultText": "Rescued",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"sandstorm": {
+"Name": {
+"DefaultText": "Sandstorm",
+"LocalTexts": {
+"fr": "Tempête de sable",
+"de": "Sandstorm",
+"es": "Tormenta de arena",
+"zh-hans": "沙暴",
+"ru": "."
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"scanner": {
+"Name": {
+"DefaultText": "Scanner",
+"LocalTexts": {
+"es": "Escáner",
+"zh-hans": "侦查"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"shopping": {
+"Name": {
+"DefaultText": "Shopping",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"shop_security": {
+"Name": {
+"DefaultText": "Shop Security",
+"LocalTexts": {}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"snow": {
+"Name": {
+"DefaultText": "Snow",
+"LocalTexts": {
+"fr": "Neigeux",
+"de": "Schnee",
+"es": "Nieve",
+"zh-hans": "下雪"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"somethings_stirring": {
+"Name": {
+"DefaultText": "Something's stirring...",
+"LocalTexts": {
+"de": "Da ist irgendwas...",
+"es": "Algo se está moviendo...",
+"zh-hans": "有什么在活动...."
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"stairs_sensed": {
+"Name": {
+"DefaultText": "Stairs Sensed",
+"LocalTexts": {
+"de": "Treppen wahrgenommen",
+"es": "Escaleras Detectadas",
+"zh-hans": "楼梯感应"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"sunny": {
+"Name": {
+"DefaultText": "Sunny",
+"LocalTexts": {
+"fr": "Ensoleillé",
+"de": "Sonnig",
+"es": "Soleado",
+"ko": "쾌청",
+"zh-hans": "日照强烈"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"thief": {
+"Name": {
+"DefaultText": "Thief",
+"LocalTexts": {
+"es": "Ladrón",
+"zh-hans": "盗贼"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"trick_room": {
+"Name": {
+"DefaultText": "Trick Room",
+"LocalTexts": {
+"fr": "Distorsion",
+"de": "Bizarroraum",
+"es": "Espacio Raro",
+"ko": "트릭룸",
+"zh-hans": "戏法空间"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"wind": {
+"Name": {
+"DefaultText": "Wind",
+"LocalTexts": {
+"fr": "Courant d'Air",
+"de": "Wind",
+"es": "Viento",
+"zh-hans": "起风"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+},
+"wonder_room": {
+"Name": {
+"DefaultText": "Wonder Room",
+"LocalTexts": {
+"fr": "Zone Étrange",
+"de": "Wunderraum",
+"es": "Zona Extraña",
+"zh-hans": "奇妙空间"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 0
+}
+}
+}
