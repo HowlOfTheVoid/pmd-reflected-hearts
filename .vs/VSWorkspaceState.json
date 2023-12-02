@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data",
+    "\\Data\\Script",
+    "\\Data\\Script\\services\\debug_tools",
+    "\\Data\\Script\\zone",
+    "\\Data\\Script\\zone\\faded_trail",
+    "\\Data\\Script\\zone\\royal_halls",
+    "\\Data\\Script\\zone\\ruined_lab",
+    "\\Data\\Script\\zone\\secret_garden",
+    "\\Editor\\Docs"
+  ],
+  "SelectedNode": "\\Data\\Script\\zone\\secret_garden\\init.lua",
+  "PreviewInSolutionExplorer": false
+}
