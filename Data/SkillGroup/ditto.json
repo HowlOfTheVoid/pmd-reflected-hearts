@@ -1,0 +1,11 @@
+﻿{
+"Version": "0.7.14.0",
+"Object": {
+"$type": "RogueEssence.Data.SkillGroupData, RogueEssence",
+"Name": {
+"DefaultText": "Ditto",
+"LocalTexts": {}
+},
+"Comment": ""
+}
+}
