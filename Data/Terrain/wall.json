@@ -1,0 +1,35 @@
+﻿{
+"Version": "0.7.14.0",
+"Object": {
+"$type": "RogueEssence.Data.TerrainData, RogueEssence",
+"Name": {
+"DefaultText": "Variable-Texture Blocked",
+"LocalTexts": {}
+},
+"Comment": "",
+"Element": 0,
+"BlockType": 8,
+"MinimapColor": "255, 255, 255, 255",
+"BlockDiagonal": true,
+"BlockLight": true,
+"ShadowType": 0,
+"TerrainStates": [
+{
+"$type": "PMDC.Dungeon.WallTerrainState, PMDC"
+}
+],
+"LandedOnTiles": [
+{
+"Key": {
+"str": [
+0
+]
+},
+"Value": {
+"$type": "PMDC.Dungeon.TeamHungerEvent, PMDC",
+"HungerAmount": 800
+}
+}
+]
+}
+}

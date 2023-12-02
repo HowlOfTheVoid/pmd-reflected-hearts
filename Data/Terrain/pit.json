@@ -1,0 +1,23 @@
+﻿{
+"Version": "0.7.14.0",
+"Object": {
+"$type": "RogueEssence.Data.TerrainData, RogueEssence",
+"Name": {
+"DefaultText": "Variable-Texture Abyss",
+"LocalTexts": {}
+},
+"Comment": "",
+"Element": 0,
+"BlockType": 4,
+"MinimapColor": "128, 128, 128, 255",
+"BlockDiagonal": false,
+"BlockLight": false,
+"ShadowType": 4,
+"TerrainStates": [
+{
+"$type": "PMDC.Dungeon.AbyssTerrainState, PMDC"
+}
+],
+"LandedOnTiles": []
+}
+}
