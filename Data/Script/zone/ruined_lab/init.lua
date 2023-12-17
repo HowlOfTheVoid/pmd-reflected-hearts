@@ -16,7 +16,7 @@ local ruined_lab = {}
 --Engine callback function
 function ruined_lab.Init(zone)
   DEBUG.EnableDbgCoro() --Enable debugging this coroutine
-  PrintInfo("=>> Init_secret_garden")
+  PrintInfo("=>> Init_ruined_lab")
 end
 
 ---ruined_lab.EnterSegment(zone, rescuing, segmentID, mapID)
@@ -31,7 +31,7 @@ end
 --Engine callback function
 function ruined_lab.ExitSegment(zone, result, rescue, segmentID, mapID)
   DEBUG.EnableDbgCoro() --Enable debugging this coroutine
-  PrintInfo("=>> ExitSegment_secret_garden result "..tostring(result).." segment "..tostring(segmentID))
+  PrintInfo("=>> ExitSegment_ruined_lab result "..tostring(result).." segment "..tostring(segmentID))
   
   --first check for rescue flag; if we're in rescue mode then take a different path
   COMMON.ExitDungeonMissionCheck(zone.ID, segmentID)

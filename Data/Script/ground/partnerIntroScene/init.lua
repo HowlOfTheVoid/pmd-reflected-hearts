@@ -66,7 +66,8 @@ function partnerIntroScene.Enter(map)
   UI:SetSpeaker(miracle)
   UI:WaitShowDialogue("Oh, Gods- You look so scared- Don't worry, I can help you out! My name is-")
 
-  UI:NameMenu("My Name is...", "Your new friend's name cannot be changed. The default name is 'Miracle'.", 48)
+  UI:NameMenu("My Name is...", [[Your new friend's name cannot be changed.
+The default is 'Miracle'.]], 48)
   UI:WaitForChoice()
   local mon_id = RogueEssence.Dungeon.MonsterID(getPartnerSpecies(player), 0, "normal", Gender.Genderless)
   local p = _DATA.Save.ActiveTeam:CreatePlayer(_DATA.Save.Rand, mon_id, 5, "", 0)

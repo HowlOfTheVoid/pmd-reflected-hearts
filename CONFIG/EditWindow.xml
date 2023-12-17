@@ -1,6 +1,6 @@
 <members>
   <member name="RogueEssence:RogueEssence.Data.ZoneData">
-    <size>420,540</size>
+    <size>430,540</size>
   </member>
   <member name="RogueEssence:RogueEssence.LevelGen.ZoneSegmentBase">
     <size>380,540</size>
